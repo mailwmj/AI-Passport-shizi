@@ -1,0 +1,961 @@
+index_global,book,lesson,index_in_book,char,unicode,pinyin,status,notes,voice_asset
+1,1,,1,人,U+4EBA,rén,ok,,voice/b1_001_4EBA.pcm
+2,1,,2,口,U+53E3,kǒu,ok,,voice/b1_002_53E3.pcm
+3,1,,3,大,U+5927,dà,ok,,voice/b1_003_5927.pcm
+4,1,,4,中,U+4E2D,zhōng,ok,,voice/b1_004_4E2D.pcm
+5,1,,5,小,U+5C0F,xiǎo,ok,,voice/b1_005_5C0F.pcm
+6,1,,6,哭,U+54ED,kū,ok,,voice/b1_006_54ED.pcm
+7,1,,7,笑,U+7B11,xiào,ok,,voice/b1_007_7B11.pcm
+8,1,,8,一,U+4E00,yī,ok,,voice/b1_008_4E00.pcm
+9,1,,9,上,U+4E0A,shàng,ok,,voice/b1_009_4E0A.pcm
+10,1,,10,下,U+4E0B,xià,ok,,voice/b1_010_4E0B.pcm
+11,1,,11,爸,U+7238,bà,ok,,voice/b1_011_7238.pcm
+12,1,,12,妈,U+5988,mā,ok,,voice/b1_012_5988.pcm
+13,1,,13,天,U+5929,tiān,ok,,voice/b1_013_5929.pcm
+14,1,,14,太,U+592A,tài,ok,,voice/b1_014_592A.pcm
+15,1,,15,月,U+6708,yuè,ok,,voice/b1_015_6708.pcm
+16,1,,16,二,U+4E8C,èr,ok,,voice/b1_016_4E8C.pcm
+17,1,,17,地,U+5730,dì,ok,,voice/b1_017_5730.pcm
+18,1,,18,阳,U+9633,yáng,ok,,voice/b1_018_9633.pcm
+19,1,,19,亮,U+4EAE,liàng,ok,,voice/b1_019_4EAE.pcm
+20,1,,20,星,U+661F,xīng,ok,,voice/b1_020_661F.pcm
+21,1,,21,云,U+4E91,yún,ok,,voice/b1_021_4E91.pcm
+22,1,,22,火,U+706B,huǒ,ok,,voice/b1_022_706B.pcm
+23,1,,23,水,U+6C34,shuǐ,ok,,voice/b1_023_6C34.pcm
+24,1,,24,三,U+4E09,sān,ok,,voice/b1_024_4E09.pcm
+25,1,,25,土,U+571F,tǔ,ok,,voice/b1_025_571F.pcm
+26,1,,26,山,U+5C71,shān,ok,,voice/b1_026_5C71.pcm
+27,1,,27,石,U+77F3,shí,ok,,voice/b1_027_77F3.pcm
+28,1,,28,木,U+6728,mù,ok,,voice/b1_028_6728.pcm
+29,1,,29,我,U+6211,wǒ,ok,,voice/b1_029_6211.pcm
+30,1,,30,好,U+597D,hǎo,ok,,voice/b1_030_597D.pcm
+31,1,,31,有,U+6709,yǒu,ok,,voice/b1_031_6709.pcm
+32,1,,32,田,U+7530,tián,ok,,voice/b1_032_7530.pcm
+33,1,,33,牛,U+725B,niú,ok,,voice/b1_033_725B.pcm
+34,1,,34,羊,U+7F8A,yáng,ok,,voice/b1_034_7F8A.pcm
+35,1,,35,聪,U+806A,cōng,ok,,voice/b1_035_806A.pcm
+36,1,,36,耳,U+8033,ěr,ok,,voice/b1_036_8033.pcm
+37,1,,37,目,U+76EE,mù,ok,,voice/b1_037_76EE.pcm
+38,1,,38,心,U+5FC3,xīn,ok,,voice/b1_038_5FC3.pcm
+39,1,,39,和,U+548C,hé,ok,,voice/b1_039_548C.pcm
+40,1,,40,四,U+56DB,sì,ok,,voice/b1_040_56DB.pcm
+41,1,,41,明,U+660E,míng,ok,,voice/b1_041_660E.pcm
+42,1,,42,头,U+5934,tóu,ok,,voice/b1_042_5934.pcm
+43,1,,43,眉,U+7709,méi,ok,,voice/b1_043_7709.pcm
+44,1,,44,鼻,U+9F3B,bí,ok,,voice/b1_044_9F3B.pcm
+45,1,,45,手,U+624B,shǒu,ok,,voice/b1_045_624B.pcm
+46,1,,46,花,U+82B1,huā,ok,,voice/b1_046_82B1.pcm
+47,1,,47,树,U+6811,shù,ok,,voice/b1_047_6811.pcm
+48,1,,48,五,U+4E94,wǔ,ok,,voice/b1_048_4E94.pcm
+49,1,,49,草,U+8349,cǎo,ok,,voice/b1_049_8349.pcm
+50,1,,50,叶,U+53F6,yè,ok,,voice/b1_050_53F6.pcm
+51,1,,51,日,U+65E5,rì,ok,,voice/b1_051_65E5.pcm
+52,1,,52,风,U+98CE,fēng,ok,,voice/b1_052_98CE.pcm
+53,1,,53,雨,U+96E8,yǔ,ok,,voice/b1_053_96E8.pcm
+54,1,,54,的,U+7684,de,ok,,voice/b1_054_7684.pcm
+55,1,,55,孩,U+5B69,hái,ok,,voice/b1_055_5B69.pcm
+56,1,,56,六,U+516D,liù,ok,,voice/b1_056_516D.pcm
+57,1,,57,白,U+767D,bái,ok,,voice/b1_057_767D.pcm
+58,1,,58,红,U+7EA2,hóng,ok,,voice/b1_058_7EA2.pcm
+59,1,,59,是,U+662F,shì,ok,,voice/b1_059_662F.pcm
+60,1,,60,家,U+5BB6,jiā,ok,,voice/b1_060_5BB6.pcm
+61,1,,61,多,U+591A,duō,ok,,voice/b1_061_591A.pcm
+62,1,,62,唱,U+5531,chàng,ok,,voice/b1_062_5531.pcm
+63,1,,63,子,U+5B50,zi,ok,,voice/b1_063_5B50.pcm
+64,1,,64,七,U+4E03,qī,ok,,voice/b1_064_4E03.pcm
+65,1,,65,爱,U+7231,ài,ok,,voice/b1_065_7231.pcm
+66,1,,66,爷,U+7237,yé,ok,,voice/b1_066_7237.pcm
+67,1,,67,奶,U+5976,nǎi,ok,,voice/b1_067_5976.pcm
+68,1,,68,少,U+5C11,shǎo,ok,,voice/b1_068_5C11.pcm
+69,1,,69,歌,U+6B4C,gē,ok,,voice/b1_069_6B4C.pcm
+70,1,,70,不,U+4E0D,bù,ok,,voice/b1_070_4E0D.pcm
+71,1,,71,朋,U+670B,péng,ok,,voice/b1_071_670B.pcm
+72,1,,72,八,U+516B,bā,ok,,voice/b1_072_516B.pcm
+73,1,,73,宝,U+5B9D,bǎo,ok,,voice/b1_073_5B9D.pcm
+74,1,,74,在,U+5728,zài,ok,,voice/b1_074_5728.pcm
+75,1,,75,学,U+5B66,xué,ok,,voice/b1_075_5B66.pcm
+76,1,,76,书,U+4E66,shū,ok,,voice/b1_076_4E66.pcm
+77,1,,77,游,U+6E38,yóu,ok,,voice/b1_077_6E38.pcm
+78,1,,78,友,U+53CB,yǒu,ok,,voice/b1_078_53CB.pcm
+79,1,,79,儿,U+513F,ér,ok,,voice/b1_079_513F.pcm
+80,1,,80,九,U+4E5D,jiǔ,ok,,voice/b1_080_4E5D.pcm
+81,1,,81,贝,U+8D1D,bèi,ok,,voice/b1_081_8D1D.pcm
+82,1,,82,生,U+751F,shēng,ok,,voice/b1_082_751F.pcm
+83,1,,83,习,U+4E60,xí,ok,,voice/b1_083_4E60.pcm
+84,1,,84,看,U+770B,kàn,ok,,voice/b1_084_770B.pcm
+85,1,,85,戏,U+620F,xì,ok,,voice/b1_085_620F.pcm
+86,1,,86,字,U+5B57,zì,ok,,voice/b1_086_5B57.pcm
+87,1,,87,气,U+6C14,qì,ok,,voice/b1_087_6C14.pcm
+88,1,,88,十,U+5341,shí,ok,,voice/b1_088_5341.pcm
+89,2,,1,会,U+4F1A,huì,ok,,voice/b2_001_4F1A.pcm
+90,2,,2,见,U+89C1,jiàn,ok,,voice/b2_002_89C1.pcm
+91,2,,3,早,U+65E9,zǎo,ok,,voice/b2_003_65E9.pcm
+92,2,,4,雪,U+96EA,xuě,ok,,voice/b2_004_96EA.pcm
+93,2,,5,鸡,U+9E21,jī,ok,,voice/b2_005_9E21.pcm
+94,2,,6,绿,U+7EFF,lǜ,ok,,voice/b2_006_7EFF.pcm
+95,2,,7,黄,U+9EC4,huáng,ok,,voice/b2_007_9EC4.pcm
+96,2,,8,青,U+9752,qīng,ok,,voice/b2_008_9752.pcm
+97,2,,9,鱼,U+9C7C,yú,ok,,voice/b2_009_9C7C.pcm
+98,2,,10,做,U+505A,zuò,ok,,voice/b2_010_505A.pcm
+99,2,,11,飞,U+98DE,fēi,ok,,voice/b2_011_98DE.pcm
+100,2,,12,跑,U+8DD1,pǎo,ok,,voice/b2_012_8DD1.pcm
+101,2,,13,要,U+8981,yào,ok,,voice/b2_013_8981.pcm
+102,2,,14,吃,U+5403,chī,ok,,voice/b2_014_5403.pcm
+103,2,,15,鸟,U+9E1F,niǎo,ok,,voice/b2_015_9E1F.pcm
+104,2,,16,他,U+4ED6,tā,ok,,voice/b2_016_4ED6.pcm
+105,2,,17,们,U+4EEC,men,ok,,voice/b2_017_4EEC.pcm
+106,2,,18,春,U+6625,chūn,ok,,voice/b2_018_6625.pcm
+107,2,,19,夏,U+590F,xià,ok,,voice/b2_019_590F.pcm
+108,2,,20,秋,U+79CB,qiū,ok,,voice/b2_020_79CB.pcm
+109,2,,21,冬,U+51AC,dōng,ok,,voice/b2_021_51AC.pcm
+110,2,,22,季,U+5B63,jì,ok,,voice/b2_022_5B63.pcm
+111,2,,23,都,U+90FD,dōu,ok,,voice/b2_023_90FD.pcm
+112,2,,24,个,U+4E2A,gè,ok,,voice/b2_024_4E2A.pcm
+113,2,,25,狗,U+72D7,gǒu,ok,,voice/b2_025_72D7.pcm
+114,2,,26,猫,U+732B,māo,ok,,voice/b2_026_732B.pcm
+115,2,,27,蓝,U+84DD,lán,ok,,voice/b2_027_84DD.pcm
+116,2,,28,落,U+843D,luò,ok,,voice/b2_028_843D.pcm
+117,2,,29,真,U+771F,zhēn,ok,,voice/b2_029_771F.pcm
+118,2,,30,开,U+5F00,kāi,ok,,voice/b2_030_5F00.pcm
+119,2,,31,说,U+8BF4,shuō,ok,,voice/b2_031_8BF4.pcm
+120,2,,32,也,U+4E5F,yě,ok,,voice/b2_032_4E5F.pcm
+121,2,,33,马,U+9A6C,mǎ,ok,,voice/b2_033_9A6C.pcm
+122,2,,34,米,U+7C73,mǐ,ok,,voice/b2_034_7C73.pcm
+123,2,,35,哥,U+54E5,gē,ok,,voice/b2_035_54E5.pcm
+124,2,,36,姐,U+59D0,jiě,ok,,voice/b2_036_59D0.pcm
+125,2,,37,来,U+6765,lái,ok,,voice/b2_037_6765.pcm
+126,2,,38,黑,U+9ED1,hēi,ok,,voice/b2_038_9ED1.pcm
+127,2,,39,去,U+53BB,qù,ok,,voice/b2_039_53BB.pcm
+128,2,,40,出,U+51FA,chū,ok,,voice/b2_040_51FA.pcm
+129,2,,41,跳,U+8DF3,tiào,ok,,voice/b2_041_8DF3.pcm
+130,2,,42,着,U+7740,zhe,ok,,voice/b2_042_7740.pcm
+131,2,,43,了,U+4E86,le,ok,,voice/b2_043_4E86.pcm
+132,2,,44,你,U+4F60,nǐ,ok,,voice/b2_044_4F60.pcm
+133,2,,45,又,U+53C8,yòu,ok,,voice/b2_045_53C8.pcm
+134,2,,46,弟,U+5F1F,dì,ok,,voice/b2_046_5F1F.pcm
+135,2,,47,妹,U+59B9,mèi,ok,,voice/b2_047_59B9.pcm
+136,2,,48,东,U+4E1C,dōng,ok,,voice/b2_048_4E1C.pcm
+137,2,,49,就,U+5C31,jiù,ok,,voice/b2_049_5C31.pcm
+138,2,,50,还,U+8FD8,hái,ok,,voice/b2_050_8FD8.pcm
+139,2,,51,快,U+5FEB,kuài,ok,,voice/b2_051_5FEB.pcm
+140,2,,52,得,U+5F97,dé,ok,,voice/b2_052_5F97.pcm
+141,2,,53,西,U+897F,xī,ok,,voice/b2_053_897F.pcm
+142,2,,54,乐,U+4E50,lè,ok,,voice/b2_054_4E50.pcm
+143,2,,55,到,U+5230,dào,ok,,voice/b2_055_5230.pcm
+144,2,,56,起,U+8D77,qǐ,ok,,voice/b2_056_8D77.pcm
+145,2,,57,玩,U+73A9,wán,ok,,voice/b2_057_73A9.pcm
+146,2,,58,捉,U+6349,zhuō,ok,,voice/b2_058_6349.pcm
+147,2,,59,迷,U+8FF7,mí,ok,,voice/b2_059_8FF7.pcm
+148,2,,60,球,U+7403,qiú,ok,,voice/b2_060_7403.pcm
+149,2,,61,很,U+5F88,hěn,ok,,voice/b2_061_5F88.pcm
+150,2,,62,高,U+9AD8,gāo,ok,,voice/b2_062_9AD8.pcm
+151,2,,63,鸭,U+9E2D,yā,ok,,voice/b2_063_9E2D.pcm
+152,2,,64,哈,U+54C8,hā,ok,,voice/b2_064_54C8.pcm
+153,2,,65,方,U+65B9,fāng,ok,,voice/b2_065_65B9.pcm
+154,2,,66,爬,U+722C,pá,ok,,voice/b2_066_722C.pcm
+155,2,,67,藏,U+85CF,cáng,ok,,voice/b2_067_85CF.pcm
+156,2,,68,兴,U+5174,xīng,ok,,voice/b2_068_5174.pcm
+157,2,,69,向,U+5411,xiàng,ok,,voice/b2_069_5411.pcm
+158,2,,70,对,U+5BF9,duì,ok,,voice/b2_070_5BF9.pcm
+159,2,,71,能,U+80FD,néng,ok,,voice/b2_071_80FD.pcm
+160,2,,72,叫,U+53EB,jiào,ok,,voice/b2_072_53EB.pcm
+161,2,,73,变,U+53D8,biàn,ok,,voice/b2_073_53D8.pcm
+162,2,,74,问,U+95EE,wèn,ok,,voice/b2_074_95EE.pcm
+163,2,,75,成,U+6210,chéng,ok,,voice/b2_075_6210.pcm
+164,2,,76,再,U+518D,zài,ok,,voice/b2_076_518D.pcm
+165,2,,77,急,U+6025,jí,ok,,voice/b2_077_6025.pcm
+166,2,,78,教,U+6559,jiào,ok,,voice/b2_078_6559.pcm
+167,2,,79,门,U+95E8,mén,ok,,voice/b2_079_95E8.pcm
+168,2,,80,只,U+53EA,zhǐ,ok,,voice/b2_080_53EA.pcm
+169,2,,81,回,U+56DE,huí,ok,,voice/b2_081_56DE.pcm
+170,2,,82,公,U+516C,gōng,ok,,voice/b2_082_516C.pcm
+171,2,,83,打,U+6253,dǎ,ok,,voice/b2_083_6253.pcm
+172,2,,84,兔,U+5154,tù,ok,,voice/b2_084_5154.pcm
+173,2,,85,请,U+8BF7,qǐng,ok,,voice/b2_085_8BF7.pcm
+174,2,,86,过,U+8FC7,guò,ok,,voice/b2_086_8FC7.pcm
+175,2,,87,吗,U+5417,ma,ok,,voice/b2_087_5417.pcm
+176,2,,88,泳,U+6CF3,yǒng,ok,,voice/b2_088_6CF3.pcm
+177,3,,1,虫,U+866B,chóng,ok,,voice/b3_001_866B.pcm
+178,3,,2,把,U+628A,bǎ,ok,,voice/b3_002_628A.pcm
+179,3,,3,驮,U+9A6E,tuó,ok,,voice/b3_003_9A6E.pcm
+180,3,,4,鹅,U+9E45,é,ok,,voice/b3_004_9E45.pcm
+181,3,,5,河,U+6CB3,hé,ok,,voice/b3_005_6CB3.pcm
+182,3,,6,礼,U+793C,lǐ,ok,,voice/b3_006_793C.pcm
+183,3,,7,背,U+80CC,bèi,ok,,voice/b3_007_80CC.pcm
+184,3,,8,拿,U+62FF,ná,ok,,voice/b3_008_62FF.pcm
+185,3,,9,里,U+91CC,lǐ,ok,,voice/b3_009_91CC.pcm
+186,3,,10,后,U+540E,hòu,ok,,voice/b3_010_540E.pcm
+187,3,,11,谢,U+8C22,xiè,ok,,voice/b3_011_8C22.pcm
+188,3,,12,边,U+8FB9,biān,ok,,voice/b3_012_8FB9.pcm
+189,3,,13,貌,U+8C8C,mào,ok,,voice/b3_013_8C8C.pcm
+190,3,,14,班,U+73ED,bān,ok,,voice/b3_014_73ED.pcm
+191,3,,15,幼,U+5E7C,yòu,ok,,voice/b3_015_5E7C.pcm
+192,3,,16,园,U+56ED,yuán,ok,,voice/b3_016_56ED.pcm
+193,3,,17,照,U+7167,zhào,ok,,voice/b3_017_7167.pcm
+194,3,,18,婆,U+5A46,pó,ok,,voice/b3_018_5A46.pcm
+195,3,,19,甜,U+751C,tián,ok,,voice/b3_019_751C.pcm
+196,3,,20,梦,U+68A6,mèng,ok,,voice/b3_020_68A6.pcm
+197,3,,21,老,U+8001,lǎo,ok,,voice/b3_021_8001.pcm
+198,3,,22,盒,U+76D2,hé,ok,,voice/b3_022_76D2.pcm
+199,3,,23,尺,U+5C3A,chǐ,ok,,voice/b3_023_5C3A.pcm
+200,3,,24,刀,U+5200,dāo,ok,,voice/b3_024_5200.pcm
+201,3,,25,时,U+65F6,shí,ok,,voice/b3_025_65F6.pcm
+202,3,,26,正,U+6B63,zhèng,ok,,voice/b3_026_6B63.pcm
+203,3,,27,文,U+6587,wén,ok,,voice/b3_027_6587.pcm
+204,3,,28,具,U+5177,jù,ok,,voice/b3_028_5177.pcm
+205,3,,29,笔,U+7B14,bǐ,ok,,voice/b3_029_7B14.pcm
+206,3,,30,画,U+753B,huà,ok,,voice/b3_030_753B.pcm
+207,3,,31,长,U+957F,zhǎng,ok,,voice/b3_031_957F.pcm
+208,3,,32,放,U+653E,fàng,ok,,voice/b3_032_653E.pcm
+209,3,,33,用,U+7528,yòng,ok,,voice/b3_033_7528.pcm
+210,3,,34,总,U+603B,zǒng,ok,,voice/b3_034_603B.pcm
+211,3,,35,尾,U+5C3E,wěi,ok,,voice/b3_035_5C3E.pcm
+212,3,,36,巴,U+5DF4,bā,ok,,voice/b3_036_5DF4.pcm
+213,3,,37,玉,U+7389,yù,ok,,voice/b3_037_7389.pcm
+214,3,,38,尖,U+5C16,jiān,ok,,voice/b3_038_5C16.pcm
+215,3,,39,竹,U+7AF9,zhú,ok,,voice/b3_039_7AF9.pcm
+216,3,,40,苗,U+82D7,miáo,ok,,voice/b3_040_82D7.pcm
+217,3,,41,听,U+542C,tīng,ok,,voice/b3_041_542C.pcm
+218,3,,42,话,U+8BDD,huà,ok,,voice/b3_042_8BDD.pcm
+219,3,,43,猴,U+7334,hóu,ok,,voice/b3_043_7334.pcm
+220,3,,44,猩,U+7329,xīng,ok,,voice/b3_044_7329.pcm
+221,3,,45,给,U+7ED9,gěi,ok,,voice/b3_045_7ED9.pcm
+222,3,,46,进,U+8FDB,jìn,ok,,voice/b3_046_8FDB.pcm
+223,3,,47,告,U+544A,gào,ok,,voice/b3_047_544A.pcm
+224,3,,48,电,U+7535,diàn,ok,,voice/b3_048_7535.pcm
+225,3,,49,诉,U+8BC9,sù,ok,,voice/b3_049_8BC9.pcm
+226,3,,50,念,U+5FF5,niàn,ok,,voice/b3_050_5FF5.pcm
+227,3,,51,饭,U+996D,fàn,ok,,voice/b3_051_996D.pcm
+228,3,,52,乖,U+4E56,guāi,ok,,voice/b3_052_4E56.pcm
+229,3,,53,想,U+60F3,xiǎng,ok,,voice/b3_053_60F3.pcm
+230,3,,54,面,U+9762,miàn,ok,,voice/b3_054_9762.pcm
+231,3,,55,住,U+4F4F,zhù,ok,,voice/b3_055_4F4F.pcm
+232,3,,56,前,U+524D,qián,ok,,voice/b3_056_524D.pcm
+233,3,,57,从,U+4ECE,cóng,ok,,voice/b3_057_4ECE.pcm
+234,3,,58,同,U+540C,tóng,ok,,voice/b3_058_540C.pcm
+235,3,,59,没,U+6CA1,méi,ok,,voice/b3_059_6CA1.pcm
+236,3,,60,送,U+9001,sòng,ok,,voice/b3_060_9001.pcm
+237,3,,61,果,U+679C,guǒ,ok,,voice/b3_061_679C.pcm
+238,3,,62,工,U+5DE5,gōng,ok,,voice/b3_062_5DE5.pcm
+239,3,,63,厂,U+5382,chǎng,ok,,voice/b3_063_5382.pcm
+240,3,,64,产,U+4EA7,chǎn,ok,,voice/b3_064_4EA7.pcm
+241,3,,65,动,U+52A8,dòng,ok,,voice/b3_065_52A8.pcm
+242,3,,66,关,U+5173,guān,ok,,voice/b3_066_5173.pcm
+243,3,,67,找,U+627E,zhǎo,ok,,voice/b3_067_627E.pcm
+244,3,,68,按,U+6309,àn,ok,,voice/b3_068_6309.pcm
+245,3,,69,年,U+5E74,nián,ok,,voice/b3_069_5E74.pcm
+246,3,,70,节,U+8282,jié,ok,,voice/b3_070_8282.pcm
+247,3,,71,桃,U+6843,táo,ok,,voice/b3_071_6843.pcm
+248,3,,72,荷,U+8377,hé,ok,,voice/b3_072_8377.pcm
+249,3,,73,菊,U+83CA,jú,ok,,voice/b3_073_83CA.pcm
+250,3,,74,梅,U+6885,méi,ok,,voice/b3_074_6885.pcm
+251,3,,75,冷,U+51B7,lěng,ok,,voice/b3_075_51B7.pcm
+252,3,,76,它,U+5B83,tā,ok,,voice/b3_076_5B83.pcm
+253,3,,77,怕,U+6015,pà,ok,,voice/b3_077_6015.pcm
+254,3,,78,躲,U+8EB2,duǒ,ok,,voice/b3_078_8EB2.pcm
+255,3,,79,勇,U+52C7,yǒng,ok,,voice/b3_079_52C7.pcm
+256,3,,80,敢,U+6562,gǎn,ok,,voice/b3_080_6562.pcm
+257,3,,81,堆,U+5806,duī,ok,,voice/b3_081_5806.pcm
+258,3,,82,仗,U+4ED7,zhàng,ok,,voice/b3_082_4ED7.pcm
+259,3,,83,柳,U+67F3,liǔ,ok,,voice/b3_083_67F3.pcm
+260,3,,84,农,U+519C,nóng,ok,,voice/b3_084_519C.pcm
+261,3,,85,民,U+6C11,mín,ok,,voice/b3_085_6C11.pcm
+262,3,,86,伯,U+4F2F,bó,ok,,voice/b3_086_4F2F.pcm
+263,3,,87,种,U+79CD,zhǒng,ok,,voice/b3_087_79CD.pcm
+264,3,,88,最,U+6700,zuì,ok,,voice/b3_088_6700.pcm
+265,4,,1,片,U+7247,piàn,ok,,voice/b4_001_7247.pcm
+266,4,,2,吹,U+5439,chuī,ok,,voice/b4_002_5439.pcm
+267,4,,3,浇,U+6D47,jiāo,ok,,voice/b4_003_6D47.pcm
+268,4,,4,燕,U+71D5,yàn,ok,,voice/b4_004_71D5.pcm
+269,4,,5,睡,U+7761,shuì,ok,,voice/b4_005_7761.pcm
+270,4,,6,醒,U+9192,xǐng,ok,,voice/b4_006_9192.pcm
+271,4,,7,蛙,U+86D9,wā,ok,,voice/b4_007_86D9.pcm
+272,4,,8,呱,U+5471,gū,ok,,voice/b4_008_5471.pcm
+273,4,,9,南,U+5357,nán,ok,,voice/b4_009_5357.pcm
+274,4,,10,椅,U+6905,yǐ,ok,,voice/b4_010_6905.pcm
+275,4,,11,坐,U+5750,zuò,ok,,voice/b4_011_5750.pcm
+276,4,,12,身,U+8EAB,shēn,ok,,voice/b4_012_8EAB.pcm
+277,4,,13,吧,U+5427,ba,ok,,voice/b4_013_5427.pcm
+278,4,,14,桌,U+684C,zhuō,ok,,voice/b4_014_684C.pcm
+279,4,,15,布,U+5E03,bù,ok,,voice/b4_015_5E03.pcm
+280,4,,16,抱,U+62B1,bào,ok,,voice/b4_016_62B1.pcm
+281,4,,17,摔,U+6454,shuāi,ok,,voice/b4_017_6454.pcm
+282,4,,18,声,U+58F0,shēng,ok,,voice/b4_018_58F0.pcm
+283,4,,19,谁,U+8C01,shuí,ok,,voice/b4_019_8C01.pcm
+284,4,,20,呢,U+5462,ne,ok,,voice/b4_020_5462.pcm
+285,4,,21,认,U+8BA4,rèn,ok,,voice/b4_021_8BA4.pcm
+286,4,,22,原,U+539F,yuán,ok,,voice/b4_022_539F.pcm
+287,4,,23,痛,U+75DB,tòng,ok,,voice/b4_023_75DB.pcm
+288,4,,24,喊,U+558A,hǎn,ok,,voice/b4_024_558A.pcm
+289,4,,25,狼,U+72FC,láng,ok,,voice/b4_025_72FC.pcm
+290,4,,26,啦,U+5566,la,ok,,voice/b4_026_5566.pcm
+291,4,,27,赶,U+8D76,gǎn,ok,,voice/b4_027_8D76.pcm
+292,4,,28,救,U+6551,jiù,ok,,voice/b4_028_6551.pcm
+293,4,,29,假,U+5047,jiǎ,ok,,voice/b4_029_5047.pcm
+294,4,,30,掉,U+6389,diào,ok,,voice/b4_030_6389.pcm
+295,4,,31,路,U+8DEF,lù,ok,,voice/b4_031_8DEF.pcm
+296,4,,32,碰,U+78B0,pèng,ok,,voice/b4_032_78B0.pcm
+297,4,,33,哪,U+54EA,nǎ,ok,,voice/b4_033_54EA.pcm
+298,4,,34,呀,U+5440,ya,ok,,voice/b4_034_5440.pcm
+299,4,,35,两,U+4E24,liǎng,ok,,voice/b4_035_4E24.pcm
+300,4,,36,逃,U+9003,táo,ok,,voice/b4_036_9003.pcm
+301,4,,37,走,U+8D70,zǒu,ok,,voice/b4_037_8D70.pcm
+302,4,,38,她,U+5979,tā,ok,,voice/b4_038_5979.pcm
+303,4,,39,点,U+70B9,diǎn,ok,,voice/b4_039_70B9.pcm
+304,4,,40,音,U+97F3,yīn,ok,,voice/b4_040_97F3.pcm
+305,4,,41,可,U+53EF,kě,ok,,voice/b4_041_53EF.pcm
+306,4,,42,伸,U+4F38,shēn,ok,,voice/b4_042_4F38.pcm
+307,4,,43,缝,U+7F1D,fèng,ok,,voice/b4_043_7F1D.pcm
+308,4,,44,夹,U+5939,jiā,ok,,voice/b4_044_5939.pcm
+309,4,,45,根,U+6839,gēn,ok,,voice/b4_045_6839.pcm
+310,4,,46,棍,U+68CD,gùn,ok,,voice/b4_046_68CD.pcm
+311,4,,47,丢,U+4E22,diū,ok,,voice/b4_047_4E22.pcm
+312,4,,48,灰,U+7070,huī,ok,,voice/b4_048_7070.pcm
+313,4,,49,萝,U+841D,luó,ok,,voice/b4_049_841D.pcm
+314,4,,50,卜,U+535C,bo,ok,,voice/b4_050_535C.pcm
+315,4,,51,熟,U+719F,shú,ok,,voice/b4_051_719F.pcm
+316,4,,52,拔,U+62D4,bá,ok,,voice/b4_052_62D4.pcm
+317,4,,53,拉,U+62C9,lā,ok,,voice/b4_053_62C9.pcm
+318,4,,54,鼠,U+9F20,shǔ,ok,,voice/b4_054_9F20.pcm
+319,4,,55,咕,U+5495,gū,ok,,voice/b4_055_5495.pcm
+320,4,,56,咚,U+549A,dōng,ok,,voice/b4_056_549A.pcm
+321,4,,57,倒,U+5012,dào,ok,,voice/b4_057_5012.pcm
+322,4,,58,抬,U+62AC,tái,ok,,voice/b4_058_62AC.pcm
+323,4,,59,晚,U+665A,wǎn,ok,,voice/b4_059_665A.pcm
+324,4,,60,左,U+5DE6,zuǒ,ok,,voice/b4_060_5DE6.pcm
+325,4,,61,右,U+53F3,yòu,ok,,voice/b4_061_53F3.pcm
+326,4,,62,怎,U+600E,zěn,ok,,voice/b4_062_600E.pcm
+327,4,,63,么,U+4E48,me,ok,,voice/b4_063_4E48.pcm
+328,4,,64,办,U+529E,bàn,ok,,voice/b4_064_529E.pcm
+329,4,,65,知,U+77E5,zhī,ok,,voice/b4_065_77E5.pcm
+330,4,,66,道,U+9053,dào,ok,,voice/b4_066_9053.pcm
+331,4,,67,午,U+5348,wǔ,ok,,voice/b4_067_5348.pcm
+332,4,,68,这,U+8FD9,zhè,ok,,voice/b4_068_8FD9.pcm
+333,4,,69,座,U+5EA7,zuò,ok,,voice/b4_069_5EA7.pcm
+334,4,,70,洞,U+6D1E,dòng,ok,,voice/b4_070_6D1E.pcm
+335,4,,71,什,U+4EC0,shén,ok,,voice/b4_071_4EC0.pcm
+336,4,,72,害,U+5BB3,hài,ok,,voice/b4_072_5BB3.pcm
+337,4,,73,付,U+4ED8,fù,ok,,voice/b4_073_4ED8.pcm
+338,4,,74,顶,U+9876,dǐng,ok,,voice/b4_074_9876.pcm
+339,4,,75,角,U+89D2,jiǎo,ok,,voice/b4_075_89D2.pcm
+340,4,,76,死,U+6B7B,sǐ,ok,,voice/b4_076_6B7B.pcm
+341,4,,77,扑,U+6251,pū,ok,,voice/b4_077_6251.pcm
+342,4,,78,期,U+671F,qī,ok,,voice/b4_078_671F.pcm
+343,4,,79,带,U+5E26,dài,ok,,voice/b4_079_5E26.pcm
+344,4,,80,分,U+5206,fēn,ok,,voice/b4_080_5206.pcm
+345,4,,81,清,U+6E05,qīng,ok,,voice/b4_081_6E05.pcm
+346,4,,82,今,U+4ECA,jīn,ok,,voice/b4_082_4ECA.pcm
+347,4,,83,昨,U+6628,zuó,ok,,voice/b4_083_6628.pcm
+348,4,,84,光,U+5149,guāng,ok,,voice/b4_084_5149.pcm
+349,4,,85,阴,U+9634,yīn,ok,,voice/b4_085_9634.pcm
+350,4,,86,错,U+9519,cuò,ok,,voice/b4_086_9519.pcm
+351,4,,87,指,U+6307,zhǐ,ok,,voice/b4_087_6307.pcm
+352,4,,88,拇,U+62C7,mǔ,ok,,voice/b4_088_62C7.pcm
+353,5,,1,食,U+98DF,shí,ok,,voice/b5_001_98DF.pcm
+354,5,,2,无,U+65E0,wú,ok,,voice/b5_002_65E0.pcm
+355,5,,3,名,U+540D,míng,ok,,voice/b5_003_540D.pcm
+356,5,,4,加,U+52A0,jiā,ok,,voice/b5_004_52A0.pcm
+357,5,,5,共,U+5171,gòng,ok,,voice/b5_005_5171.pcm
+358,5,,6,事,U+4E8B,shì,ok,,voice/b5_006_4E8B.pcm
+359,5,,7,帮,U+5E2E,bāng,ok,,voice/b5_007_5E2E.pcm
+360,5,,8,饿,U+997F,è,ok,,voice/b5_008_997F.pcm
+361,5,,9,肚,U+809A,dù,ok,,voice/b5_009_809A.pcm
+362,5,,10,狮,U+72EE,shī,ok,,voice/b5_010_72EE.pcm
+363,5,,11,觉,U+89C9,jué,ok,,voice/b5_011_89C9.pcm
+364,5,,12,毛,U+6BDB,máo,ok,,voice/b5_012_6BDB.pcm
+365,5,,13,求,U+6C42,qiú,ok,,voice/b5_013_6C42.pcm
+366,5,,14,等,U+7B49,děng,ok,,voice/b5_014_7B49.pcm
+367,5,,15,香,U+9999,xiāng,ok,,voice/b5_015_9999.pcm
+368,5,,16,肉,U+8089,ròu,ok,,voice/b5_016_8089.pcm
+369,5,,17,张,U+5F20,zhāng,ok,,voice/b5_017_5F20.pcm
+370,5,,18,网,U+7F51,wǎng,ok,,voice/b5_018_7F51.pcm
+371,5,,19,咬,U+54AC,yǎo,ok,,voice/b5_019_54AC.pcm
+372,5,,20,力,U+529B,lì,ok,,voice/b5_020_529B.pcm
+373,5,,21,啊,U+554A,a,ok,,voice/b5_021_554A.pcm
+374,5,,22,牙,U+7259,yá,ok,,voice/b5_022_7259.pcm
+375,5,,23,嘴,U+5634,zuǐ,ok,,voice/b5_023_5634.pcm
+376,5,,24,漂,U+6F02,piāo,ok,,voice/b5_024_6F02.pcm
+377,5,,25,胡,U+80E1,hú,ok,,voice/b5_025_80E1.pcm
+378,5,,26,虎,U+864E,hǔ,ok,,voice/b5_026_864E.pcm
+379,5,,27,贴,U+8D34,tiē,ok,,voice/b5_027_8D34.pcm
+380,5,,28,才,U+624D,cái,ok,,voice/b5_028_624D.pcm
+381,5,,29,数,U+6570,shù,ok,,voice/b5_029_6570.pcm
+382,5,,30,更,U+66F4,gèng,ok,,voice/b5_030_66F4.pcm
+383,5,,31,朵,U+6735,duǒ,ok,,voice/b5_031_6735.pcm
+384,5,,32,纸,U+7EB8,zhǐ,ok,,voice/b5_032_7EB8.pcm
+385,5,,33,圆,U+5706,yuán,ok,,voice/b5_033_5706.pcm
+386,5,,34,圈,U+5708,quān,ok,,voice/b5_034_5708.pcm
+387,5,,35,亲,U+4EB2,qīn,ok,,voice/b5_035_4EB2.pcm
+388,5,,36,脸,U+8138,liǎn,ok,,voice/b5_036_8138.pcm
+389,5,,37,眼,U+773C,yǎn,ok,,voice/b5_037_773C.pcm
+390,5,,38,睛,U+775B,jīng,ok,,voice/b5_038_775B.pcm
+391,5,,39,接,U+63A5,jiē,ok,,voice/b5_039_63A5.pcm
+392,5,,40,外,U+5916,wài,ok,,voice/b5_040_5916.pcm
+393,5,,41,笨,U+7B28,bèn,ok,,voice/b5_041_7B28.pcm
+394,5,,42,以,U+4EE5,yǐ,ok,,voice/b5_042_4EE5.pcm
+395,5,,43,自,U+81EA,zì,ok,,voice/b5_043_81EA.pcm
+396,5,,44,己,U+5DF1,jǐ,ok,,voice/b5_044_5DF1.pcm
+397,5,,45,慢,U+6162,màn,ok,,voice/b5_045_6162.pcm
+398,5,,46,难,U+96BE,nán,ok,,voice/b5_046_96BE.pcm
+399,5,,47,练,U+7EC3,liàn,ok,,voice/b5_047_7EC3.pcm
+400,5,,48,每,U+6BCF,měi,ok,,voice/b5_048_6BCF.pcm
+401,5,,49,颗,U+9897,kē,ok,,voice/b5_049_9897.pcm
+402,5,,50,样,U+6837,yàng,ok,,voice/b5_050_6837.pcm
+403,5,,51,因,U+56E0,yīn,ok,,voice/b5_051_56E0.pcm
+404,5,,52,为,U+4E3A,wèi,ok,,voice/b5_052_4E3A.pcm
+405,5,,53,离,U+79BB,lí,ok,,voice/b5_053_79BB.pcm
+406,5,,54,近,U+8FD1,jìn,ok,,voice/b5_054_8FD1.pcm
+407,5,,55,象,U+8C61,xiàng,ok,,voice/b5_055_8C61.pcm
+408,5,,56,船,U+8239,chuán,ok,,voice/b5_056_8239.pcm
+409,5,,57,闪,U+95EA,shǎn,ok,,voice/b5_057_95EA.pcm
+410,5,,58,金,U+91D1,jīn,ok,,voice/b5_058_91D1.pcm
+411,5,,59,美,U+7F8E,měi,ok,,voice/b5_059_7F8E.pcm
+412,5,,60,丽,U+4E3D,lì,ok,,voice/b5_060_4E3D.pcm
+413,5,,61,当,U+5F53,dāng,ok,,voice/b5_061_5F53.pcm
+414,5,,62,扇,U+6247,shàn,ok,,voice/b5_062_6247.pcm
+415,5,,63,满,U+6EE1,mǎn,ok,,voice/b5_063_6EE1.pcm
+416,5,,64,干,U+5E72,gàn,ok,,voice/b5_064_5E72.pcm
+417,5,,65,朝,U+671D,cháo,ok,,voice/b5_065_671D.pcm
+418,5,,66,熊,U+718A,xióng,ok,,voice/b5_066_718A.pcm
+419,5,,67,娃,U+5A03,wá,ok,,voice/b5_067_5A03.pcm
+420,5,,68,汽,U+6C7D,qì,ok,,voice/b5_068_6C7D.pcm
+421,5,,69,车,U+8F66,chē,ok,,voice/b5_069_8F66.pcm
+422,5,,70,北,U+5317,běi,ok,,voice/b5_070_5317.pcm
+423,5,,71,京,U+4EAC,jīng,ok,,voice/b5_071_4EAC.pcm
+424,5,,72,往,U+5F80,wǎng,ok,,voice/b5_072_5F80.pcm
+425,5,,73,呜,U+545C,wū,ok,,voice/b5_073_545C.pcm
+426,5,,74,鹿,U+9E7F,lù,ok,,voice/b5_074_9E7F.pcm
+427,5,,75,森,U+68EE,sēn,ok,,voice/b5_075_68EE.pcm
+428,5,,76,林,U+6797,lín,ok,,voice/b5_076_6797.pcm
+429,5,,77,采,U+91C7,cǎi,ok,,voice/b5_077_91C7.pcm
+430,5,,78,蘑,U+8611,mó,ok,,voice/b5_078_8611.pcm
+431,5,,79,菇,U+83C7,gū,ok,,voice/b5_079_83C7.pcm
+432,5,,80,篮,U+7BEE,lán,ok,,voice/b5_080_7BEE.pcm
+433,5,,81,直,U+76F4,zhí,ok,,voice/b5_081_76F4.pcm
+434,5,,82,摸,U+6478,mō,ok,,voice/b5_082_6478.pcm
+435,5,,83,苔,U+82D4,tái,ok,,voice/b5_083_82D4.pcm
+436,5,,84,所,U+6240,suǒ,ok,,voice/b5_084_6240.pcm
+437,5,,85,科,U+79D1,kē,ok,,voice/b5_085_79D1.pcm
+438,5,,86,灯,U+706F,dēng,ok,,voice/b5_086_706F.pcm
+439,5,,87,应,U+5E94,yīng,ok,,voice/b5_087_5E94.pcm
+440,5,,88,该,U+8BE5,gāi,ok,,voice/b5_088_8BE5.pcm
+441,5,,89,题,U+9898,tí,ok,,voice/b5_089_9898.pcm
+442,6,51,1,停,U+505C,tíng,ok,,voice/b6_001_505C.pcm
+443,6,51,2,而,U+800C,ér,ok,,voice/b6_002_800C.pcm
+444,6,51,3,窗,U+7A97,chuāng,ok,,voice/b6_003_7A97.pcm
+445,6,51,4,刚,U+521A,gāng,ok,,voice/b6_004_521A.pcm
+446,6,51,5,撞,U+649E,zhuàng,ok,,voice/b6_005_649E.pcm
+447,6,51,6,比,U+6BD4,bǐ,ok,,voice/b6_006_6BD4.pcm
+448,6,51,7,记,U+8BB0,jì,ok,,voice/b6_007_8BB0.pcm
+449,6,51,8,串,U+4E32,chuàn,ok,,voice/b6_008_4E32.pcm
+450,6,51,9,被,U+88AB,bèi,ok,,voice/b6_009_88AB.pcm
+451,6,51,10,够,U+591F,gòu,ok,,voice/b6_010_591F.pcm
+452,6,51,11,命,U+547D,mìng,ok,,voice/b6_011_547D.pcm
+453,6,51,12,颈,U+9888,jǐng,ok,,voice/b6_012_9888.pcm
+454,6,51,13,定,U+5B9A,dìng,ok,,voice/b6_013_5B9A.pcm
+455,6,51,14,吓,U+5413,xià,ok,,voice/b6_014_5413.pcm
+456,6,51,15,啄,U+5544,zhuó,ok,,voice/b6_015_5544.pcm
+457,6,51,16,破,U+7834,pò,ok,,voice/b6_016_7834.pcm
+458,6,52,17,湖,U+6E56,hú,ok,,voice/b6_017_6E56.pcm
+459,6,52,18,棵,U+68F5,kē,ok,,voice/b6_018_68F5.pcm
+460,6,52,19,瓜,U+74DC,guā,ok,,voice/b6_019_74DC.pcm
+461,6,52,20,透,U+900F,tòu,ok,,voice/b6_020_900F.pcm
+462,6,52,21,腿,U+817F,tuǐ,ok,,voice/b6_021_817F.pcm
+463,6,52,22,狐,U+72D0,hú,ok,,voice/b6_022_72D0.pcm
+464,6,52,23,粗,U+7C97,cū,ok,,voice/b6_023_7C97.pcm
+465,6,52,24,竿,U+7AFF,gān,ok,,voice/b6_024_7AFF.pcm
+466,6,52,25,狸,U+72F8,lí,ok,,voice/b6_025_72F8.pcm
+467,6,52,26,跟,U+8DDF,gēn,ok,,voice/b6_026_8DDF.pcm
+468,6,53,27,钓,U+9493,diào,ok,,voice/b6_027_9493.pcm
+469,6,53,28,甩,U+7529,shuǎi,ok,,voice/b6_028_7529.pcm
+470,6,53,29,钩,U+94A9,gōu,ok,,voice/b6_029_94A9.pcm
+471,6,53,30,忘,U+5FD8,wàng,ok,,voice/b6_030_5FD8.pcm
+472,6,53,31,装,U+88C5,zhuāng,ok,,voice/b6_031_88C5.pcm
+473,6,53,32,饵,U+9975,ěr,ok,,voice/b6_032_9975.pcm
+474,6,53,33,算,U+7B97,suàn,ok,,voice/b6_033_7B97.pcm
+475,6,53,34,桶,U+6876,tǒng,ok,,voice/b6_034_6876.pcm
+476,6,53,35,坏,U+574F,huài,ok,,voice/b6_035_574F.pcm
+477,6,53,36,忙,U+5FD9,máng,ok,,voice/b6_036_5FD9.pcm
+478,6,54,37,洗,U+6D17,xǐ,ok,,voice/b6_037_6D17.pcm
+479,6,54,38,忽,U+5FFD,hū,ok,,voice/b6_038_5FFD.pcm
+480,6,54,39,然,U+7136,rán,ok,,voice/b6_039_7136.pcm
+481,6,54,40,全,U+5168,quán,ok,,voice/b6_040_5168.pcm
+482,6,54,41,条,U+6761,tiáo,ok,,voice/b6_041_6761.pcm
+483,6,54,42,怪,U+602A,guài,ok,,voice/b6_042_602A.pcm
+484,6,54,43,物,U+7269,wù,ok,,voice/b6_043_7269.pcm
+485,6,54,44,猪,U+732A,zhū,ok,,voice/b6_044_732A.pcm
+486,6,54,45,影,U+5F71,yǐng,ok,,voice/b6_045_5F71.pcm
+487,6,54,46,信,U+4FE1,xìn,ok,,voice/b6_046_4FE1.pcm
+488,6,55,47,呼,U+547C,hū,ok,,voice/b6_047_547C.pcm
+489,6,55,48,结,U+7ED3,jié,ok,,voice/b6_048_7ED3.pcm
+490,6,55,49,冰,U+51B0,bīng,ok,,voice/b6_049_51B0.pcm
+491,6,55,50,枝,U+679D,zhī,ok,,voice/b6_050_679D.pcm
+492,6,55,51,发,U+53D1,fā,ok,,voice/b6_051_53D1.pcm
+493,6,55,52,抖,U+6296,dǒu,ok,,voice/b6_052_6296.pcm
+494,6,55,53,暖,U+6696,nuǎn,ok,,voice/b6_053_6696.pcm
+495,6,55,54,屋,U+5C4B,wū,ok,,voice/b6_054_5C4B.pcm
+496,6,55,55,法,U+6CD5,fǎ,ok,,voice/b6_055_6CD5.pcm
+497,6,55,56,件,U+4EF6,jiàn,ok,,voice/b6_056_4EF6.pcm
+498,6,55,57,于,U+4E8E,yú,ok,,voice/b6_057_4E8E.pcm
+499,6,56,58,松,U+677E,sōng,ok,,voice/b6_058_677E.pcm
+500,6,56,59,帽,U+5E3D,mào,ok,,voice/b6_059_5E3D.pcm
+501,6,56,60,戴,U+6234,dài,ok,,voice/b6_060_6234.pcm
+502,6,56,61,热,U+70ED,rè,ok,,voice/b6_061_70ED.pcm
+503,6,56,62,候,U+5019,hòu,ok,,voice/b6_062_5019.pcm
+504,6,56,63,劳,U+52B3,láo,ok,,voice/b6_063_52B3.pcm
+505,6,56,64,流,U+6D41,liú,ok,,voice/b6_064_6D41.pcm
+506,6,56,65,汗,U+6C57,hàn,ok,,voice/b6_065_6C57.pcm
+507,6,56,66,凉,U+51C9,liáng,ok,,voice/b6_066_51C9.pcm
+508,6,56,67,别,U+522B,bié,ok,,voice/b6_067_522B.pcm
+509,6,57,68,整,U+6574,zhěng,ok,,voice/b6_068_6574.pcm
+510,6,57,69,还,U+8FD8,hái,reintroduced,also in book 2 #50,voice/b6_069_8FD8.pcm
+511,6,57,70,觉,U+89C9,jué,reintroduced,also in book 5 #11,voice/b6_070_89C9.pcm
+512,6,57,71,盖,U+76D6,gài,ok,,voice/b6_071_76D6.pcm
+513,6,57,72,怜,U+601C,lián,ok,,voice/b6_072_601C.pcm
+514,6,57,73,窝,U+7A9D,wō,ok,,voice/b6_073_7A9D.pcm
+515,6,57,74,着,U+7740,zhe,reintroduced,also in book 2 #42,voice/b6_074_7740.pcm
+516,6,57,75,病,U+75C5,bìng,ok,,voice/b6_075_75C5.pcm
+517,6,57,76,受,U+53D7,shòu,ok,,voice/b6_076_53D7.pcm
+518,6,57,77,羽,U+7FBD,yǔ,ok,,voice/b6_077_7FBD.pcm
+519,6,57,78,望,U+671B,wàng,ok,,voice/b6_078_671B.pcm
+520,6,58,79,骑,U+9A91,qí,ok,,voice/b6_079_9A91.pcm
+521,6,58,80,行,U+884C,xíng,ok,,voice/b6_080_884C.pcm
+522,6,58,81,远,U+8FDC,yuǎn,ok,,voice/b6_081_8FDC.pcm
+523,6,58,82,经,U+7ECF,jīng,ok,,voice/b6_082_7ECF.pcm
+524,6,58,83,旁,U+65C1,páng,ok,,voice/b6_083_65C1.pcm
+525,6,58,84,婶,U+5A76,shěn,ok,,voice/b6_084_5A76.pcm
+526,6,58,85,呵,U+5475,hē,ok,,voice/b6_085_5475.pcm
+527,6,58,86,稀,U+7A00,xī,ok,,voice/b6_086_7A00.pcm
+528,6,58,87,奇,U+5947,qí,ok,,voice/b6_087_5947.pcm
+529,6,59,88,祝,U+795D,zhù,ok,,voice/b6_088_795D.pcm
+530,6,59,89,贺,U+8D3A,hè,ok,,voice/b6_089_8D3A.pcm
+531,6,59,90,哟,U+54DF,yō,ok,,voice/b6_090_54DF.pcm
+532,6,59,91,脑,U+8111,nǎo,ok,,voice/b6_091_8111.pcm
+533,6,59,92,呆,U+5446,dāi,ok,,voice/b6_092_5446.pcm
+534,6,59,93,床,U+5E8A,chuáng,ok,,voice/b6_093_5E8A.pcm
+535,6,59,94,闹,U+95F9,nào,ok,,voice/b6_094_95F9.pcm
+536,6,59,95,钟,U+949F,zhōng,ok,,voice/b6_095_949F.pcm
+537,6,59,96,拨,U+62E8,bō,ok,,voice/b6_096_62E8.pcm
+538,6,59,97,准,U+51C6,zhǔn,ok,,voice/b6_097_51C6.pcm
+539,6,59,98,备,U+5907,bèi,ok,,voice/b6_098_5907.pcm
+540,6,60,99,其,U+5176,qí,ok,,voice/b6_099_5176.pcm
+541,6,60,100,实,U+5B9E,shí,ok,,voice/b6_100_5B9E.pcm
+542,6,60,101,轻,U+8F7B,qīng,ok,,voice/b6_101_8F7B.pcm
+543,6,60,102,响,U+54CD,xiǎng,ok,,voice/b6_102_54CD.pcm
+544,6,60,103,迟,U+8FDF,chí,ok,,voice/b6_103_8FDF.pcm
+545,6,60,104,已,U+5DF2,yǐ,ok,,voice/b6_104_5DF2.pcm
+546,6,60,105,叠,U+53E0,dié,ok,,voice/b6_105_53E0.pcm
+547,6,60,106,包,U+5305,bāo,ok,,voice/b6_106_5305.pcm
+548,6,60,107,碗,U+7897,wǎn,ok,,voice/b6_107_7897.pcm
+549,6,60,108,写,U+5199,xiě,ok,,voice/b6_108_5199.pcm
+550,6,60,109,冒,U+5192,mào,ok,,voice/b6_109_5192.pcm
+551,6,60,110,您,U+60A8,nín,ok,,voice/b6_110_60A8.pcm
+552,6,60,111,了,U+4E86,le,reintroduced,also in book 2 #43,voice/b6_111_4E86.pcm
+553,7,,1,丁,U+4E01,dīng,ok,book7 字族拓展 via family parent=一,voice/b7_001_4E01.pcm
+554,7,,2,亏,U+4E8F,kuī,ok,book7 字族拓展 via family parent=一,voice/b7_002_4E8F.pcm
+555,7,,3,士,U+58EB,shì,ok,book7 字族拓展 via family parent=一,voice/b7_003_58EB.pcm
+556,7,,4,与,U+4E0E,yǔ,ok,book7 字族拓展 via family parent=一,voice/b7_004_4E0E.pcm
+557,7,,5,万,U+4E07,wàn,ok,book7 字族拓展 via family parent=一,voice/b7_005_4E07.pcm
+558,7,,6,千,U+5343,qiān,ok,book7 字族拓展 via family parent=十,voice/b7_006_5343.pcm
+559,7,,7,丸,U+4E38,wán,ok,book7 字族拓展 via family parent=九,voice/b7_007_4E38.pcm
+560,7,,8,卫,U+536B,wèi,ok,book7 字族拓展 via family parent=一,voice/b7_008_536B.pcm
+561,7,,9,刃,U+5203,rèn,ok,book7 字族拓展 via family parent=刀,voice/b7_009_5203.pcm
+562,7,,10,叉,U+53C9,chā,ok,book7 字族拓展 via family parent=又,voice/b7_010_53C9.pcm
+563,7,,11,丰,U+4E30,fēng,ok,book7 字族拓展 via family parent=三,voice/b7_011_4E30.pcm
+564,7,,12,王,U+738B,wáng,ok,book7 字族拓展 via family parent=土,voice/b7_012_738B.pcm
+565,7,,13,夫,U+592B,fū,ok,book7 字族拓展 via family parent=人,voice/b7_013_592B.pcm
+566,7,,14,元,U+5143,yuán,ok,book7 字族拓展 via family parent=一,voice/b7_014_5143.pcm
+567,7,,15,支,U+652F,zhī,ok,book7 字族拓展 via family parent=又,voice/b7_015_652F.pcm
+568,7,,16,厅,U+5385,tīng,ok,book7 字族拓展 via family parent=厂,voice/b7_016_5385.pcm
+569,7,,17,历,U+5386,lì,ok,book7 字族拓展 via family parent=力,voice/b7_017_5386.pcm
+570,7,,18,歹,U+6B79,dǎi,ok,book7 字族拓展 via family parent=一,voice/b7_018_6B79.pcm
+571,7,,19,匹,U+5339,pǐ,ok,book7 字族拓展 via family parent=儿,voice/b7_019_5339.pcm
+572,7,,20,互,U+4E92,hù,ok,book7 字族拓展 via family parent=一,voice/b7_020_4E92.pcm
+573,7,,21,切,U+5207,qiè,ok,book7 字族拓展 via family parent=刀,voice/b7_021_5207.pcm
+574,7,,22,内,U+5185,nèi,ok,book7 字族拓展 via family parent=人,voice/b7_022_5185.pcm
+575,7,,23,夭,U+592D,yāo,ok,book7 字族拓展 via family parent=大,voice/b7_023_592D.pcm
+576,7,,24,仁,U+4EC1,rén,ok,book7 字族拓展 via family parent=二,voice/b7_024_4EC1.pcm
+577,7,,25,仆,U+4EC6,pū,ok,book7 字族拓展 via family parent=卜,voice/b7_025_4EC6.pcm
+578,7,,26,仇,U+4EC7,chóu,ok,book7 字族拓展 via family parent=九,voice/b7_026_4EC7.pcm
+579,7,,27,仅,U+4EC5,jǐn,ok,book7 字族拓展 via family parent=又,voice/b7_027_4EC5.pcm
+580,7,,28,反,U+53CD,fǎn,ok,book7 字族拓展 via family parent=又,voice/b7_028_53CD.pcm
+581,7,,29,介,U+4ECB,jiè,ok,book7 字族拓展 via family parent=人,voice/b7_029_4ECB.pcm
+582,7,,30,父,U+7236,fù,ok,book7 字族拓展 via family parent=八,voice/b7_030_7236.pcm
+583,7,,31,仑,U+4ED1,lún,ok,book7 字族拓展 via family parent=人,voice/b7_031_4ED1.pcm
+584,7,,32,仓,U+4ED3,cāng,ok,book7 字族拓展 via family parent=人,voice/b7_032_4ED3.pcm
+585,7,,33,乌,U+4E4C,wū,ok,book7 字族拓展 via family parent=一,voice/b7_033_4E4C.pcm
+586,7,,34,凤,U+51E4,fèng,ok,book7 字族拓展 via family parent=又,voice/b7_034_51E4.pcm
+587,7,,35,计,U+8BA1,jì,ok,book7 字族拓展 via family parent=十,voice/b7_035_8BA1.pcm
+588,7,,36,孔,U+5B54,kǒng,ok,book7 字族拓展 via family parent=子,voice/b7_036_5B54.pcm
+589,7,,37,队,U+961F,duì,ok,book7 字族拓展 via family parent=人,voice/b7_037_961F.pcm
+590,7,,38,允,U+5141,yǔn,ok,book7 字族拓展 via family parent=儿,voice/b7_038_5141.pcm
+591,7,,39,邓,U+9093,dèng,ok,book7 字族拓展 via family parent=又,voice/b7_039_9093.pcm
+592,7,,40,劝,U+529D,quàn,ok,book7 字族拓展 via family parent=又,voice/b7_040_529D.pcm
+593,7,,41,双,U+53CC,shuāng,ok,book7 字族拓展 via family parent=又,voice/b7_041_53CC.pcm
+594,7,,42,刊,U+520A,kān,ok,book7 字族拓展 via family parent=干,voice/b7_042_520A.pcm
+595,7,,43,击,U+51FB,jī,ok,book7 字族拓展 via family parent=二,voice/b7_043_51FB.pcm
+596,7,,44,巧,U+5DE7,qiǎo,ok,book7 字族拓展 via family parent=工,voice/b7_044_5DE7.pcm
+597,7,,45,卉,U+5349,huì,ok,book7 字族拓展 via family parent=十,voice/b7_045_5349.pcm
+598,7,,46,扒,U+6252,bā,ok,book7 字族拓展 via family parent=八,voice/b7_046_6252.pcm
+599,7,,47,功,U+529F,gōng,ok,book7 字族拓展 via family parent=力,voice/b7_047_529F.pcm
+600,7,,48,古,U+53E4,gǔ,ok,book7 字族拓展 via family parent=口,voice/b7_048_53E4.pcm
+601,7,,49,术,U+672F,shù,ok,book7 字族拓展 via family parent=木,voice/b7_049_672F.pcm
+602,7,,50,丙,U+4E19,bǐng,ok,book7 字族拓展 via family parent=一,voice/b7_050_4E19.pcm
+603,7,,51,厉,U+5389,lì,ok,book7 字族拓展 via family parent=厂,voice/b7_051_5389.pcm
+604,7,,52,夯,U+592F,hāng,ok,book7 字族拓展 via family parent=力,voice/b7_052_592F.pcm
+605,7,,53,平,U+5E73,píng,ok,book7 字族拓展 via family parent=干,voice/b7_053_5E73.pcm
+606,7,,54,灭,U+706D,miè,ok,book7 字族拓展 via family parent=一,voice/b7_054_706D.pcm
+607,7,,55,轧,U+8F67,yà,ok,book7 字族拓展 via family parent=车,voice/b7_055_8F67.pcm
+608,7,,56,卡,U+5361,kǎ,ok,book7 字族拓展 via family parent=卜,voice/b7_056_5361.pcm
+609,7,,57,占,U+5360,zhàn,ok,book7 字族拓展 via family parent=口,voice/b7_057_5360.pcm
+610,7,,58,业,U+4E1A,yè,ok,book7 字族拓展 via family parent=一,voice/b7_058_4E1A.pcm
+611,7,,59,旧,U+65E7,jiù,ok,book7 字族拓展 via family parent=日,voice/b7_059_65E7.pcm
+612,7,,60,旦,U+65E6,dàn,ok,book7 字族拓展 via family parent=日,voice/b7_060_65E6.pcm
+613,7,,61,叮,U+53EE,dīng,ok,book7 字族拓展 via family parent=口,voice/b7_061_53EE.pcm
+614,7,,62,号,U+53F7,hào,ok,book7 字族拓展 via family parent=口,voice/b7_062_53F7.pcm
+615,7,,63,叭,U+53ED,bā,ok,book7 字族拓展 via family parent=口,voice/b7_063_53ED.pcm
+616,7,,64,兄,U+5144,xiōng,ok,book7 字族拓展 via family parent=口,voice/b7_064_5144.pcm
+617,7,,65,叽,U+53FD,jī,ok,book7 字族拓展 via family parent=口,voice/b7_065_53FD.pcm
+618,7,,66,叼,U+53FC,diāo,ok,book7 字族拓展 via family parent=口,voice/b7_066_53FC.pcm
+619,7,,67,叩,U+53E9,kòu,ok,book7 字族拓展 via family parent=口,voice/b7_067_53E9.pcm
+620,7,,68,叨,U+53E8,dāo,ok,book7 字族拓展 via family parent=口,voice/b7_068_53E8.pcm
+621,7,,69,另,U+53E6,lìng,ok,book7 字族拓展 via family parent=口,voice/b7_069_53E6.pcm
+622,7,,70,叹,U+53F9,tàn,ok,book7 字族拓展 via family parent=口,voice/b7_070_53F9.pcm
+623,7,,71,囚,U+56DA,qiú,ok,book7 字族拓展 via family parent=人,voice/b7_071_56DA.pcm
+624,7,,72,矢,U+77E2,shǐ,ok,book7 字族拓展 via family parent=大,voice/b7_072_77E2.pcm
+625,7,,73,禾,U+79BE,hé,ok,book7 字族拓展 via family parent=木,voice/b7_073_79BE.pcm
+626,7,,74,仙,U+4ED9,xiān,ok,book7 字族拓展 via family parent=山,voice/b7_074_4ED9.pcm
+627,7,,75,仔,U+4ED4,zǎi,ok,book7 字族拓展 via family parent=子,voice/b7_075_4ED4.pcm
+628,7,,76,丛,U+4E1B,cóng,ok,book7 字族拓展 via family parent=一,voice/b7_076_4E1B.pcm
+629,7,,77,尔,U+5C14,ěr,ok,book7 字族拓展 via family parent=小,voice/b7_077_5C14.pcm
+630,7,,78,句,U+53E5,jù,ok,book7 字族拓展 via family parent=口,voice/b7_078_53E5.pcm
+631,7,,79,处,U+5904,chù,ok,book7 字族拓展 via family parent=卜,voice/b7_079_5904.pcm
+632,7,,80,务,U+52A1,wù,ok,book7 字族拓展 via family parent=力,voice/b7_080_52A1.pcm
+633,7,,81,主,U+4E3B,zhǔ,ok,book7 字族拓展 via family parent=土,voice/b7_081_4E3B.pcm
+634,7,,82,立,U+7ACB,lì,ok,book7 字族拓展 via family parent=一,voice/b7_082_7ACB.pcm
+635,7,,83,冯,U+51AF,féng,ok,book7 字族拓展 via family parent=马,voice/b7_083_51AF.pcm
+636,7,,84,兰,U+5170,lán,ok,book7 字族拓展 via family parent=三,voice/b7_084_5170.pcm
+637,7,,85,半,U+534A,bàn,ok,book7 字族拓展 via family parent=二,voice/b7_085_534A.pcm
+638,7,,86,汁,U+6C41,zhī,ok,book7 字族拓展 via family parent=十,voice/b7_086_6C41.pcm
+639,7,,87,汉,U+6C49,hàn,ok,book7 字族拓展 via family parent=又,voice/b7_087_6C49.pcm
+640,7,,88,穴,U+7A74,xué,ok,book7 字族拓展 via family parent=八,voice/b7_088_7A74.pcm
+641,7,,89,让,U+8BA9,ràng,ok,book7 字族拓展 via family parent=上,voice/b7_089_8BA9.pcm
+642,7,,90,必,U+5FC5,bì,ok,book7 字族拓展 via family parent=心,voice/b7_090_5FC5.pcm
+643,7,,91,辽,U+8FBD,liáo,ok,book7 字族拓展 via family parent=了,voice/b7_091_8FBD.pcm
+644,7,,92,奴,U+5974,nú,ok,book7 字族拓展 via family parent=又,voice/b7_092_5974.pcm
+645,7,,93,召,U+53EC,zhào,ok,book7 字族拓展 via family parent=口,voice/b7_093_53EC.pcm
+646,7,,94,孕,U+5B55,yùn,ok,book7 字族拓展 via family parent=子,voice/b7_094_5B55.pcm
+647,7,,95,圣,U+5723,shèng,ok,book7 字族拓展 via family parent=土,voice/b7_095_5723.pcm
+648,7,,96,台,U+53F0,tái,ok,book7 字族拓展 via family parent=口,voice/b7_096_53F0.pcm
+649,7,,97,丝,U+4E1D,sī,ok,book7 字族拓展 via family parent=一,voice/b7_097_4E1D.pcm
+650,7,,98,式,U+5F0F,shì,ok,book7 字族拓展 via family parent=工,voice/b7_098_5F0F.pcm
+651,7,,99,迂,U+8FC2,yū,ok,book7 字族拓展 via family parent=于,voice/b7_099_8FC2.pcm
+652,7,,100,刑,U+5211,xíng,ok,book7 字族拓展 via family parent=开,voice/b7_100_5211.pcm
+653,7,,101,扛,U+625B,káng,ok,book7 字族拓展 via family parent=工,voice/b7_101_625B.pcm
+654,7,,102,寺,U+5BFA,sì,ok,book7 字族拓展 via family parent=土,voice/b7_102_5BFA.pcm
+655,7,,103,吉,U+5409,jí,ok,book7 字族拓展 via family parent=口,voice/b7_103_5409.pcm
+656,7,,104,扣,U+6263,kòu,ok,book7 字族拓展 via family parent=口,voice/b7_104_6263.pcm
+657,7,,105,巩,U+5DE9,gǒng,ok,book7 字族拓展 via family parent=工,voice/b7_105_5DE9.pcm
+658,7,,106,圾,U+573E,jī,ok,book7 字族拓展 via family parent=土,voice/b7_106_573E.pcm
+659,7,,107,场,U+573A,chǎng,ok,book7 字族拓展 via family parent=土,voice/b7_107_573A.pcm
+660,7,,108,芋,U+828B,yù,ok,book7 字族拓展 via family parent=于,voice/b7_108_828B.pcm
+661,7,,109,亚,U+4E9A,yà,ok,book7 字族拓展 via family parent=一,voice/b7_109_4E9A.pcm
+662,7,,110,朽,U+673D,xiǔ,ok,book7 字族拓展 via family parent=木,voice/b7_110_673D.pcm
+663,7,,111,朴,U+6734,pǔ,ok,book7 字族拓展 via family parent=木,voice/b7_111_6734.pcm
+664,7,,112,机,U+673A,jī,ok,book7 字族拓展 via family parent=木,voice/b7_112_673A.pcm
+665,7,,113,权,U+6743,quán,ok,book7 字族拓展 via family parent=木,voice/b7_113_6743.pcm
+666,7,,114,吏,U+540F,lì,ok,book7 字族拓展 via family parent=一,voice/b7_114_540F.pcm
+667,7,,115,协,U+534F,xié,ok,book7 字族拓展 via family parent=十,voice/b7_115_534F.pcm
+668,7,,116,压,U+538B,yā,ok,book7 字族拓展 via family parent=厂,voice/b7_116_538B.pcm
+669,7,,117,厌,U+538C,yàn,ok,book7 字族拓展 via family parent=厂,voice/b7_117_538C.pcm
+670,7,,118,戌,U+620C,xū,ok,book7 字族拓展 via family parent=一,voice/b7_118_620C.pcm
+671,7,,119,百,U+767E,bǎi,ok,book7 字族拓展 via family parent=一,voice/b7_119_767E.pcm
+672,7,,120,存,U+5B58,cún,ok,book7 字族拓展 via family parent=子,voice/b7_120_5B58.pcm
+673,7,,121,夸,U+5938,kuā,ok,book7 字族拓展 via family parent=大,voice/b7_121_5938.pcm
+674,7,,122,夺,U+593A,duó,ok,book7 字族拓展 via family parent=大,voice/b7_122_593A.pcm
+675,7,,123,达,U+8FBE,dá,ok,book7 字族拓展 via family parent=大,voice/b7_123_8FBE.pcm
+676,7,,124,夷,U+5937,yí,ok,book7 字族拓展 via family parent=大,voice/b7_124_5937.pcm
+677,7,,125,轨,U+8F68,guǐ,ok,book7 字族拓展 via family parent=车,voice/b7_125_8F68.pcm
+678,7,,126,邪,U+90AA,xié,ok,book7 字族拓展 via family parent=牙,voice/b7_126_90AA.pcm
+679,7,,127,毕,U+6BD5,bì,ok,book7 字族拓展 via family parent=十,voice/b7_127_6BD5.pcm
+680,7,,128,至,U+81F3,zhì,ok,book7 字族拓展 via family parent=土,voice/b7_128_81F3.pcm
+681,7,,129,贞,U+8D1E,zhēn,ok,book7 字族拓展 via family parent=贝,voice/b7_129_8D1E.pcm
+682,7,,130,尘,U+5C18,chén,ok,book7 字族拓展 via family parent=土,voice/b7_130_5C18.pcm
+683,7,,131,劣,U+52A3,liè,ok,book7 字族拓展 via family parent=力,voice/b7_131_52A3.pcm
+684,7,,132,吁,U+5401,xū,ok,book7 字族拓展 via family parent=口,voice/b7_132_5401.pcm
+685,7,,133,吐,U+5410,tǔ,ok,book7 字族拓展 via family parent=口,voice/b7_133_5410.pcm
+686,7,,134,团,U+56E2,tuán,ok,book7 字族拓展 via family parent=才,voice/b7_134_56E2.pcm
+687,7,,135,吕,U+5415,lǚ,ok,book7 字族拓展 via family parent=口,voice/b7_135_5415.pcm
+688,7,,136,吊,U+540A,diào,ok,book7 字族拓展 via family parent=口,voice/b7_136_540A.pcm
+689,7,,137,吸,U+5438,xī,ok,book7 字族拓展 via family parent=口,voice/b7_137_5438.pcm
+690,7,,138,吆,U+5406,yāo,ok,book7 字族拓展 via family parent=口,voice/b7_138_5406.pcm
+691,7,,139,屿,U+5C7F,yǔ,ok,book7 字族拓展 via family parent=山,voice/b7_139_5C7F.pcm
+692,7,,140,屹,U+5C79,yì,ok,book7 字族拓展 via family parent=山,voice/b7_140_5C79.pcm
+693,7,,141,岁,U+5C81,suì,ok,book7 字族拓展 via family parent=山,voice/b7_141_5C81.pcm
+694,7,,142,岂,U+5C82,qǐ,ok,book7 字族拓展 via family parent=山,voice/b7_142_5C82.pcm
+695,7,,143,则,U+5219,zé,ok,book7 字族拓展 via family parent=贝,voice/b7_143_5219.pcm
+696,7,,144,先,U+5148,xiān,ok,book7 字族拓展 via family parent=儿,voice/b7_144_5148.pcm
+697,7,,145,舌,U+820C,shé,ok,book7 字族拓展 via family parent=口,voice/b7_145_820C.pcm
+698,7,,146,休,U+4F11,xiū,ok,book7 字族拓展 via family parent=木,voice/b7_146_4F11.pcm
+699,7,,147,伍,U+4F0D,wǔ,ok,book7 字族拓展 via family parent=五,voice/b7_147_4F0D.pcm
+700,7,,148,仲,U+4EF2,zhòng,ok,book7 字族拓展 via family parent=中,voice/b7_148_4EF2.pcm
+701,7,,149,伤,U+4F24,shāng,ok,book7 字族拓展 via family parent=力,voice/b7_149_4F24.pcm
+702,7,,150,份,U+4EFD,fèn,ok,book7 字族拓展 via family parent=分,voice/b7_150_4EFD.pcm
+703,7,,151,华,U+534E,huá,ok,book7 字族拓展 via family parent=十,voice/b7_151_534E.pcm
+704,7,,152,仿,U+4EFF,fǎng,ok,book7 字族拓展 via family parent=方,voice/b7_152_4EFF.pcm
+705,7,,153,伙,U+4F19,huǒ,ok,book7 字族拓展 via family parent=火,voice/b7_153_4F19.pcm
+706,7,,154,伪,U+4F2A,wěi,ok,book7 字族拓展 via family parent=为,voice/b7_154_4F2A.pcm
+707,7,,155,似,U+4F3C,shì,ok,book7 字族拓展 via family parent=以,voice/b7_155_4F3C.pcm
+708,7,,156,合,U+5408,hé,ok,book7 字族拓展 via family parent=口,voice/b7_156_5408.pcm
+709,7,,157,企,U+4F01,qǐ,ok,book7 字族拓展 via family parent=人,voice/b7_157_4F01.pcm
+710,7,,158,众,U+4F17,zhòng,ok,book7 字族拓展 via family parent=人,voice/b7_158_4F17.pcm
+711,7,,159,伞,U+4F1E,sǎn,ok,book7 字族拓展 via family parent=十,voice/b7_159_4F1E.pcm
+712,7,,160,肌,U+808C,jī,ok,book7 字族拓展 via family parent=月,voice/b7_160_808C.pcm
+713,7,,161,肋,U+808B,lē,ok,book7 字族拓展 via family parent=月,voice/b7_161_808B.pcm
+714,7,,162,杂,U+6742,zá,ok,book7 字族拓展 via family parent=九,voice/b7_162_6742.pcm
+715,7,,163,旬,U+65EC,xún,ok,book7 字族拓展 via family parent=日,voice/b7_163_65EC.pcm
+716,7,,164,旨,U+65E8,zhǐ,ok,book7 字族拓展 via family parent=日,voice/b7_164_65E8.pcm
+717,7,,165,旭,U+65ED,xù,ok,book7 字族拓展 via family parent=日,voice/b7_165_65ED.pcm
+718,7,,166,负,U+8D1F,fù,ok,book7 字族拓展 via family parent=贝,voice/b7_166_8D1F.pcm
+719,7,,167,各,U+5404,gè,ok,book7 字族拓展 via family parent=口,voice/b7_167_5404.pcm
+720,7,,168,争,U+4E89,zhēng,ok,book7 字族拓展 via family parent=一,voice/b7_168_4E89.pcm
+721,7,,169,色,U+8272,sè,ok,book7 字族拓展 via family parent=巴,voice/b7_169_8272.pcm
+722,7,,170,冲,U+51B2,chōng,ok,book7 字族拓展 via family parent=中,voice/b7_170_51B2.pcm
+723,7,,171,庄,U+5E84,zhuāng,ok,book7 字族拓展 via family parent=土,voice/b7_171_5E84.pcm
+724,7,,172,庆,U+5E86,qìng,ok,book7 字族拓展 via family parent=大,voice/b7_172_5E86.pcm
+725,7,,173,刘,U+5218,liú,ok,book7 字族拓展 via family parent=文,voice/b7_173_5218.pcm
+726,7,,174,齐,U+9F50,qí,ok,book7 字族拓展 via family parent=文,voice/b7_174_9F50.pcm
+727,7,,175,亥,U+4EA5,hài,ok,book7 字族拓展 via family parent=人,voice/b7_175_4EA5.pcm
+728,7,,176,充,U+5145,chōng,ok,book7 字族拓展 via family parent=儿,voice/b7_176_5145.pcm
+729,7,,177,闭,U+95ED,bì,ok,book7 字族拓展 via family parent=门,voice/b7_177_95ED.pcm
+730,7,,178,闯,U+95EF,chuǎng,ok,book7 字族拓展 via family parent=马,voice/b7_178_95EF.pcm
+731,7,,179,并,U+5E76,bìng,ok,book7 字族拓展 via family parent=开,voice/b7_179_5E76.pcm
+732,7,,180,江,U+6C5F,jiāng,ok,book7 字族拓展 via family parent=工,voice/b7_180_6C5F.pcm
+733,7,,181,池,U+6C60,chí,ok,book7 字族拓展 via family parent=也,voice/b7_181_6C60.pcm
+734,7,,182,宇,U+5B87,yǔ,ok,book7 字族拓展 via family parent=于,voice/b7_182_5B87.pcm
+735,7,,183,军,U+519B,jūn,ok,book7 字族拓展 via family parent=车,voice/b7_183_519B.pcm
+736,7,,184,讶,U+8BB6,yà,ok,book7 字族拓展 via family parent=牙,voice/b7_184_8BB6.pcm
+737,7,,185,许,U+8BB8,xǔ,ok,book7 字族拓展 via family parent=午,voice/b7_185_8BB8.pcm
+738,7,,186,讼,U+8BBC,sòng,ok,book7 字族拓展 via family parent=公,voice/b7_186_8BBC.pcm
+739,7,,187,讽,U+8BBD,fěng,ok,book7 字族拓展 via family parent=风,voice/b7_187_8BBD.pcm
+740,7,,188,访,U+8BBF,fǎng,ok,book7 字族拓展 via family parent=方,voice/b7_188_8BBF.pcm
+741,7,,189,那,U+90A3,nà,ok,book7 字族拓展 via family parent=刀,voice/b7_189_90A3.pcm
+742,7,,190,尽,U+5C3D,jǐn,ok,book7 字族拓展 via family parent=尺,voice/b7_190_5C3D.pcm
+743,7,,191,弛,U+5F1B,chí,ok,book7 字族拓展 via family parent=也,voice/b7_191_5F1B.pcm
+744,7,,192,孙,U+5B59,sūn,ok,book7 字族拓展 via family parent=子,voice/b7_192_5B59.pcm
+745,7,,193,阵,U+9635,zhèn,ok,book7 字族拓展 via family parent=车,voice/b7_193_9635.pcm
+746,7,,194,防,U+9632,fáng,ok,book7 字族拓展 via family parent=方,voice/b7_194_9632.pcm
+747,7,,195,奸,U+5978,jiān,ok,book7 字族拓展 via family parent=干,voice/b7_195_5978.pcm
+748,7,,196,如,U+5982,rú,ok,book7 字族拓展 via family parent=口,voice/b7_196_5982.pcm
+749,7,,197,妃,U+5983,fēi,ok,book7 字族拓展 via family parent=己,voice/b7_197_5983.pcm
+750,7,,198,观,U+89C2,guān,ok,book7 字族拓展 via family parent=又,voice/b7_198_89C2.pcm
+751,7,,199,欢,U+6B22,huān,ok,book7 字族拓展 via family parent=又,voice/b7_199_6B22.pcm
+752,7,,200,买,U+4E70,mǎi,ok,book7 字族拓展 via family parent=头,voice/b7_200_4E70.pcm
+753,7,,201,驯,U+9A6F,xùn,ok,book7 字族拓展 via family parent=马,voice/b7_201_9A6F.pcm
+754,7,,202,纪,U+7EAA,jì,ok,book7 字族拓展 via family parent=己,voice/b7_202_7EAA.pcm
+755,7,,203,驰,U+9A70,chí,ok,book7 字族拓展 via family parent=马,voice/b7_203_9A70.pcm
+756,7,,204,玛,U+739B,mǎ,ok,book7 字族拓展 via family parent=马,voice/b7_204_739B.pcm
+757,7,,205,形,U+5F62,xíng,ok,book7 字族拓展 via family parent=开,voice/b7_205_5F62.pcm
+758,7,,206,吞,U+541E,tūn,ok,book7 字族拓展 via family parent=口,voice/b7_206_541E.pcm
+759,7,,207,运,U+8FD0,yùn,ok,book7 字族拓展 via family parent=云,voice/b7_207_8FD0.pcm
+760,7,,208,抚,U+629A,fǔ,ok,book7 字族拓展 via family parent=无,voice/b7_208_629A.pcm
+761,7,,209,坛,U+575B,tán,ok,book7 字族拓展 via family parent=土,voice/b7_209_575B.pcm
+762,7,,210,批,U+6279,pī,ok,book7 字族拓展 via family parent=比,voice/b7_210_6279.pcm
+763,7,,211,址,U+5740,zhǐ,ok,book7 字族拓展 via family parent=土,voice/b7_211_5740.pcm
+764,7,,212,抄,U+6284,chāo,ok,book7 字族拓展 via family parent=少,voice/b7_212_6284.pcm
+765,7,,213,贡,U+8D21,gòng,ok,book7 字族拓展 via family parent=贝,voice/b7_213_8D21.pcm
+766,7,,214,汞,U+6C5E,gǒng,ok,book7 字族拓展 via family parent=工,voice/b7_214_6C5E.pcm
+767,7,,215,坝,U+575D,bà,ok,book7 字族拓展 via family parent=土,voice/b7_215_575D.pcm
+768,7,,216,攻,U+653B,gōng,ok,book7 字族拓展 via family parent=工,voice/b7_216_653B.pcm
+769,7,,217,赤,U+8D64,chì,ok,book7 字族拓展 via family parent=土,voice/b7_217_8D64.pcm
+770,7,,218,扮,U+626E,bàn,ok,book7 字族拓展 via family parent=分,voice/b7_218_626E.pcm
+771,7,,219,孝,U+5B5D,xiào,ok,book7 字族拓展 via family parent=子,voice/b7_219_5B5D.pcm
+772,7,,220,坎,U+574E,kǎn,ok,book7 字族拓展 via family parent=土,voice/b7_220_574E.pcm
+773,7,,221,均,U+5747,jūn,ok,book7 字族拓展 via family parent=土,voice/b7_221_5747.pcm
+774,7,,222,坟,U+575F,fén,ok,book7 字族拓展 via family parent=土,voice/b7_222_575F.pcm
+775,7,,223,坑,U+5751,kēng,ok,book7 字族拓展 via family parent=土,voice/b7_223_5751.pcm
+776,7,,224,坊,U+574A,fāng,ok,book7 字族拓展 via family parent=土,voice/b7_224_574A.pcm
+777,7,,225,志,U+5FD7,zhì,ok,book7 字族拓展 via family parent=心,voice/b7_225_5FD7.pcm
+778,7,,226,块,U+5757,kuài,ok,book7 字族拓展 via family parent=土,voice/b7_226_5757.pcm
+779,7,,227,拟,U+62DF,nǐ,ok,book7 字族拓展 via family parent=以,voice/b7_227_62DF.pcm
+780,7,,228,却,U+5374,què,ok,book7 字族拓展 via family parent=去,voice/b7_228_5374.pcm
+781,7,,229,劫,U+52AB,jié,ok,book7 字族拓展 via family parent=力,voice/b7_229_52AB.pcm
+782,7,,230,芜,U+829C,wú,ok,book7 字族拓展 via family parent=无,voice/b7_230_829C.pcm
+783,7,,231,芽,U+82BD,yá,ok,book7 字族拓展 via family parent=牙,voice/b7_231_82BD.pcm
+784,7,,232,芬,U+82AC,fēn,ok,book7 字族拓展 via family parent=分,voice/b7_232_82AC.pcm
+785,7,,233,芳,U+82B3,fāng,ok,book7 字族拓展 via family parent=方,voice/b7_233_82B3.pcm
+786,7,,234,严,U+4E25,yán,ok,book7 字族拓展 via family parent=一,voice/b7_234_4E25.pcm
+787,7,,235,芯,U+82AF,xīn,ok,book7 字族拓展 via family parent=心,voice/b7_235_82AF.pcm
+788,7,,236,克,U+514B,kè,ok,book7 字族拓展 via family parent=儿,voice/b7_236_514B.pcm
+789,7,,237,芭,U+82AD,bā,ok,book7 字族拓展 via family parent=巴,voice/b7_237_82AD.pcm
+790,7,,238,苏,U+82CF,sū,ok,book7 字族拓展 via family parent=办,voice/b7_238_82CF.pcm
+791,7,,239,杆,U+6746,gān,ok,book7 字族拓展 via family parent=木,voice/b7_239_6746.pcm
+792,7,,240,杠,U+6760,gāng,ok,book7 字族拓展 via family parent=木,voice/b7_240_6760.pcm
+793,7,,241,杜,U+675C,dù,ok,book7 字族拓展 via family parent=木,voice/b7_241_675C.pcm
+794,7,,242,材,U+6750,cái,ok,book7 字族拓展 via family parent=木,voice/b7_242_6750.pcm
+795,7,,243,村,U+6751,cūn,ok,book7 字族拓展 via family parent=木,voice/b7_243_6751.pcm
+796,7,,244,杖,U+6756,zhàng,ok,book7 字族拓展 via family parent=木,voice/b7_244_6756.pcm
+797,7,,245,杏,U+674F,xìng,ok,book7 字族拓展 via family parent=口,voice/b7_245_674F.pcm
+798,7,,246,杉,U+6749,shān,ok,book7 字族拓展 via family parent=木,voice/b7_246_6749.pcm
+799,7,,247,巫,U+5DEB,wū,ok,book7 字族拓展 via family parent=工,voice/b7_247_5DEB.pcm
+800,7,,248,极,U+6781,jí,ok,book7 字族拓展 via family parent=木,voice/b7_248_6781.pcm
+801,7,,249,李,U+674E,lǐ,ok,book7 字族拓展 via family parent=木,voice/b7_249_674E.pcm
+802,7,,250,杨,U+6768,yáng,ok,book7 字族拓展 via family parent=木,voice/b7_250_6768.pcm
+803,7,,251,甫,U+752B,fǔ,ok,book7 字族拓展 via family parent=月,voice/b7_251_752B.pcm
+804,7,,252,吾,U+543E,wú,ok,book7 字族拓展 via family parent=口,voice/b7_252_543E.pcm
+805,7,,253,辰,U+8FB0,chén,ok,book7 字族拓展 via family parent=厂,voice/b7_253_8FB0.pcm
+806,7,,254,励,U+52B1,lì,ok,book7 字族拓展 via family parent=力,voice/b7_254_52B1.pcm
+807,7,,255,否,U+5426,fǒu,ok,book7 字族拓展 via family parent=口,voice/b7_255_5426.pcm
+808,7,,256,连,U+8FDE,lián,ok,book7 字族拓展 via family parent=车,voice/b7_256_8FDE.pcm
+809,7,,257,轩,U+8F69,xuān,ok,book7 字族拓展 via family parent=车,voice/b7_257_8F69.pcm
+810,7,,258,坚,U+575A,jiān,ok,book7 字族拓展 via family parent=土,voice/b7_258_575A.pcm
+811,7,,259,肖,U+8096,xiào,ok,book7 字族拓展 via family parent=月,voice/b7_259_8096.pcm
+812,7,,260,旱,U+65F1,hàn,ok,book7 字族拓展 via family parent=日,voice/b7_260_65F1.pcm
+813,7,,261,盯,U+76EF,dīng,ok,book7 字族拓展 via family parent=目,voice/b7_261_76EF.pcm
+814,7,,262,呈,U+5448,chéng,ok,book7 字族拓展 via family parent=口,voice/b7_262_5448.pcm
+815,7,,263,吴,U+5434,wú,ok,book7 字族拓展 via family parent=口,voice/b7_263_5434.pcm
+816,7,,264,助,U+52A9,zhù,ok,book7 字族拓展 via family parent=力,voice/b7_264_52A9.pcm
+817,7,,265,吱,U+5431,zhī,ok,book7 字族拓展 via family parent=口,voice/b7_265_5431.pcm
+818,7,,266,吠,U+5420,fèi,ok,book7 字族拓展 via family parent=口,voice/b7_266_5420.pcm
+819,7,,267,呕,U+5455,ǒu,ok,book7 字族拓展 via family parent=口,voice/b7_267_5455.pcm
+820,7,,268,旷,U+65F7,kuàng,ok,book7 字族拓展 via family parent=日,voice/b7_268_65F7.pcm
+821,7,,269,吨,U+5428,dūn,ok,book7 字族拓展 via family parent=口,voice/b7_269_5428.pcm
+822,7,,270,足,U+8DB3,zú,ok,book7 字族拓展 via family parent=口,voice/b7_270_8DB3.pcm
+823,7,,271,男,U+7537,nán,ok,book7 字族拓展 via family parent=力,voice/b7_271_7537.pcm
+824,7,,272,困,U+56F0,kùn,ok,book7 字族拓展 via family parent=木,voice/b7_272_56F0.pcm
+825,7,,273,吵,U+5435,chǎo,ok,book7 字族拓展 via family parent=口,voice/b7_273_5435.pcm
+826,7,,274,员,U+5458,yuán,ok,book7 字族拓展 via family parent=口,voice/b7_274_5458.pcm
+827,7,,275,呐,U+5450,nà,ok,book7 字族拓展 via family parent=口,voice/b7_275_5450.pcm
+828,7,,276,吟,U+541F,yín,ok,book7 字族拓展 via family parent=口,voice/b7_276_541F.pcm
+829,7,,277,吩,U+5429,fēn,ok,book7 字族拓展 via family parent=口,voice/b7_277_5429.pcm
+830,7,,278,呛,U+545B,qiāng,ok,book7 字族拓展 via family parent=口,voice/b7_278_545B.pcm
+831,7,,279,吻,U+543B,wěn,ok,book7 字族拓展 via family parent=口,voice/b7_279_543B.pcm
+832,7,,280,吭,U+542D,kēng,ok,book7 字族拓展 via family parent=口,voice/b7_280_542D.pcm
+833,7,,281,邑,U+9091,yì,ok,book7 字族拓展 via family parent=口,voice/b7_281_9091.pcm
+834,7,,282,吼,U+543C,hǒu,ok,book7 字族拓展 via family parent=口,voice/b7_282_543C.pcm
+835,7,,283,吮,U+542E,shǔn,ok,book7 字族拓展 via family parent=口,voice/b7_283_542E.pcm
+836,7,,284,岖,U+5C96,qū,ok,book7 字族拓展 via family parent=山,voice/b7_284_5C96.pcm
+837,7,,285,岗,U+5C97,gǎng,ok,book7 字族拓展 via family parent=山,voice/b7_285_5C97.pcm
+838,7,,286,帐,U+5E10,zhàng,ok,book7 字族拓展 via family parent=长,voice/b7_286_5E10.pcm
+839,7,,287,财,U+8D22,cái,ok,book7 字族拓展 via family parent=贝,voice/b7_287_8D22.pcm
+840,7,,288,针,U+9488,zhēn,ok,book7 字族拓展 via family parent=十,voice/b7_288_9488.pcm
+841,7,,289,牡,U+7261,mǔ,ok,book7 字族拓展 via family parent=土,voice/b7_289_7261.pcm
+842,7,,290,兵,U+5175,bīng,ok,book7 字族拓展 via family parent=八,voice/b7_290_5175.pcm
+843,7,,291,何,U+4F55,hé,ok,book7 字族拓展 via family parent=可,voice/b7_291_4F55.pcm
+844,7,,292,佐,U+4F50,zuǒ,ok,book7 字族拓展 via family parent=左,voice/b7_292_4F50.pcm
+845,7,,293,佑,U+4F51,yòu,ok,book7 字族拓展 via family parent=右,voice/b7_293_4F51.pcm
+846,7,,294,佃,U+4F43,diàn,ok,book7 字族拓展 via family parent=田,voice/b7_294_4F43.pcm
+847,7,,295,佣,U+4F63,yōng,ok,book7 字族拓展 via family parent=用,voice/b7_295_4F63.pcm
+848,7,,296,皂,U+7682,zào,ok,book7 字族拓展 via family parent=白,voice/b7_296_7682.pcm
+849,7,,297,希,U+5E0C,xī,ok,book7 字族拓展 via family parent=布,voice/b7_297_5E0C.pcm
+850,7,,298,含,U+542B,hán,ok,book7 字族拓展 via family parent=口,voice/b7_298_542B.pcm
+851,7,,299,岔,U+5C94,chà,ok,book7 字族拓展 via family parent=山,voice/b7_299_5C94.pcm
+852,7,,300,肝,U+809D,gān,ok,book7 字族拓展 via family parent=月,voice/b7_300_809D.pcm
+853,7,,301,肛,U+809B,gāng,ok,book7 字族拓展 via family parent=月,voice/b7_301_809B.pcm
+854,7,,302,肘,U+8098,zhǒu,ok,book7 字族拓展 via family parent=月,voice/b7_302_8098.pcm
+855,7,,303,肠,U+80A0,cháng,ok,book7 字族拓展 via family parent=月,voice/b7_303_80A0.pcm
+856,7,,304,龟,U+9F9F,guī,ok,book7 字族拓展 via family parent=日,voice/b7_304_9F9F.pcm
+857,7,,305,甸,U+7538,diān,ok,book7 字族拓展 via family parent=田,voice/b7_305_7538.pcm
+858,7,,306,狈,U+72C8,bèi,ok,book7 字族拓展 via family parent=贝,voice/b7_306_72C8.pcm
+859,7,,307,灸,U+7078,jiǔ,ok,book7 字族拓展 via family parent=火,voice/b7_307_7078.pcm
+860,7,,308,岛,U+5C9B,dǎo,ok,book7 字族拓展 via family parent=山,voice/b7_308_5C9B.pcm
+861,7,,309,刨,U+5228,páo,ok,book7 字族拓展 via family parent=包,voice/b7_309_5228.pcm
+862,7,,310,冻,U+51BB,dòng,ok,book7 字族拓展 via family parent=东,voice/b7_310_51BB.pcm
+863,7,,311,亩,U+4EA9,mǔ,ok,book7 字族拓展 via family parent=田,voice/b7_311_4EA9.pcm
+864,7,,312,库,U+5E93,kù,ok,book7 字族拓展 via family parent=车,voice/b7_312_5E93.pcm
+865,7,,313,庇,U+5E87,bì,ok,book7 字族拓展 via family parent=比,voice/b7_313_5E87.pcm
+866,7,,314,疗,U+7597,liáo,ok,book7 字族拓展 via family parent=了,voice/b7_314_7597.pcm
+867,7,,315,吝,U+541D,lìn,ok,book7 字族拓展 via family parent=口,voice/b7_315_541D.pcm
+868,7,,316,辛,U+8F9B,xīn,ok,book7 字族拓展 via family parent=十,voice/b7_316_8F9B.pcm
+869,7,,317,闰,U+95F0,rùn,ok,book7 字族拓展 via family parent=门,voice/b7_317_95F0.pcm
+870,7,,318,闲,U+95F2,xián,ok,book7 字族拓展 via family parent=木,voice/b7_318_95F2.pcm
+871,7,,319,间,U+95F4,jiān,ok,book7 字族拓展 via family parent=日,voice/b7_319_95F4.pcm
+872,7,,320,闷,U+95F7,mèn,ok,book7 字族拓展 via family parent=心,voice/b7_320_95F7.pcm
+873,7,,321,灶,U+7076,zào,ok,book7 字族拓展 via family parent=土,voice/b7_321_7076.pcm
+874,7,,322,灿,U+707F,càn,ok,book7 字族拓展 via family parent=火,voice/b7_322_707F.pcm
+875,7,,323,灼,U+707C,zhuó,ok,book7 字族拓展 via family parent=火,voice/b7_323_707C.pcm
+876,7,,324,沐,U+6C90,mù,ok,book7 字族拓展 via family parent=木,voice/b7_324_6C90.pcm
+877,7,,325,汰,U+6C70,tài,ok,book7 字族拓展 via family parent=太,voice/b7_325_6C70.pcm
+878,7,,326,沙,U+6C99,shā,ok,book7 字族拓展 via family parent=少,voice/b7_326_6C99.pcm
+879,7,,327,沁,U+6C81,qìn,ok,book7 字族拓展 via family parent=心,voice/b7_327_6C81.pcm
+880,7,,328,怀,U+6000,huái,ok,book7 字族拓展 via family parent=不,voice/b7_328_6000.pcm
+881,7,,329,宋,U+5B8B,sòng,ok,book7 字族拓展 via family parent=木,voice/b7_329_5B8B.pcm
+882,7,,330,牢,U+7262,láo,ok,book7 字族拓展 via family parent=牛,voice/b7_330_7262.pcm
+883,7,,331,究,U+7A76,jiū,ok,book7 字族拓展 via family parent=九,voice/b7_331_7A76.pcm
+884,7,,332,穷,U+7A77,qióng,ok,book7 字族拓展 via family parent=力,voice/b7_332_7A77.pcm
+885,7,,333,灾,U+707E,zāi,ok,book7 字族拓展 via family parent=火,voice/b7_333_707E.pcm
+886,7,,334,证,U+8BC1,zhèng,ok,book7 字族拓展 via family parent=正,voice/b7_334_8BC1.pcm
+887,7,,335,启,U+542F,qǐ,ok,book7 字族拓展 via family parent=口,voice/b7_335_542F.pcm
+888,7,,336,补,U+8865,bǔ,ok,book7 字族拓展 via family parent=卜,voice/b7_336_8865.pcm
+889,7,,337,初,U+521D,chū,ok,book7 字族拓展 via family parent=刀,voice/b7_337_521D.pcm
+890,7,,338,社,U+793E,shè,ok,book7 字族拓展 via family parent=土,voice/b7_338_793E.pcm
+891,7,,339,识,U+8BC6,shí,ok,book7 字族拓展 via family parent=只,voice/b7_339_8BC6.pcm
+892,7,,340,罕,U+7F55,hǎn,ok,book7 字族拓展 via family parent=干,voice/b7_340_7F55.pcm
+893,7,,341,君,U+541B,jūn,ok,book7 字族拓展 via family parent=口,voice/b7_341_541B.pcm
+894,7,,342,灵,U+7075,líng,ok,book7 字族拓展 via family parent=火,voice/b7_342_7075.pcm
+895,7,,343,层,U+5C42,céng,ok,book7 字族拓展 via family parent=云,voice/b7_343_5C42.pcm
+896,7,,344,屁,U+5C41,pì,ok,book7 字族拓展 via family parent=比,voice/b7_344_5C41.pcm
+897,7,,345,尿,U+5C3F,niào,ok,book7 字族拓展 via family parent=水,voice/b7_345_5C3F.pcm
+898,7,,346,局,U+5C40,jú,ok,book7 字族拓展 via family parent=口,voice/b7_346_5C40.pcm
+899,7,,347,改,U+6539,gǎi,ok,book7 字族拓展 via family parent=己,voice/b7_347_6539.pcm
+900,7,,348,忌,U+5FCC,jì,ok,book7 字族拓展 via family parent=心,voice/b7_348_5FCC.pcm
+901,7,,349,阿,U+963F,ā,ok,book7 字族拓展 via family parent=可,voice/b7_349_963F.pcm
+902,7,,350,陈,U+9648,chén,ok,book7 字族拓展 via family parent=东,voice/b7_350_9648.pcm
+903,7,,351,附,U+9644,fù,ok,book7 字族拓展 via family parent=付,voice/b7_351_9644.pcm
+904,7,,352,坠,U+5760,zhuì,ok,book7 字族拓展 via family parent=土,voice/b7_352_5760.pcm
+905,7,,353,妙,U+5999,miào,ok,book7 字族拓展 via family parent=少,voice/b7_353_5999.pcm
+906,7,,354,妨,U+59A8,fáng,ok,book7 字族拓展 via family parent=方,voice/b7_354_59A8.pcm
+907,7,,355,努,U+52AA,nǔ,ok,book7 字族拓展 via family parent=力,voice/b7_355_52AA.pcm
+908,7,,356,忍,U+5FCD,rěn,ok,book7 字族拓展 via family parent=心,voice/b7_356_5FCD.pcm
+909,7,,357,劲,U+52B2,jìn,ok,book7 字族拓展 via family parent=力,voice/b7_357_52B2.pcm
+910,7,,358,驱,U+9A71,qū,ok,book7 字族拓展 via family parent=马,voice/b7_358_9A71.pcm
+911,7,,359,纱,U+7EB1,shā,ok,book7 字族拓展 via family parent=少,voice/b7_359_7EB1.pcm
+912,7,,360,驳,U+9A73,bó,ok,book7 字族拓展 via family parent=马,voice/b7_360_9A73.pcm
+913,7,,361,纵,U+7EB5,zòng,ok,book7 字族拓展 via family parent=从,voice/b7_361_7EB5.pcm
+914,7,,362,纷,U+7EB7,fēn,ok,book7 字族拓展 via family parent=分,voice/b7_362_7EB7.pcm
+915,7,,363,纹,U+7EB9,wén,ok,book7 字族拓展 via family parent=文,voice/b7_363_7EB9.pcm
+916,7,,364,纺,U+7EBA,fǎng,ok,book7 字族拓展 via family parent=方,voice/b7_364_7EBA.pcm
+917,7,,365,驴,U+9A74,lǘ,ok,book7 字族拓展 via family parent=马,voice/b7_365_9A74.pcm
+918,7,,366,奉,U+5949,fèng,ok,book7 字族拓展 via family parent=二,voice/b7_366_5949.pcm
+919,7,,367,环,U+73AF,huán,ok,book7 字族拓展 via family parent=不,voice/b7_367_73AF.pcm
+920,7,,368,武,U+6B66,wǔ,ok,book7 字族拓展 via family parent=一,voice/b7_368_6B66.pcm
+921,7,,369,责,U+8D23,zé,ok,book7 字族拓展 via family parent=贝,voice/b7_369_8D23.pcm
+922,7,,370,现,U+73B0,xiàn,ok,book7 字族拓展 via family parent=见,voice/b7_370_73B0.pcm
+923,7,,371,规,U+89C4,guī,ok,book7 字族拓展 via family parent=见,voice/b7_371_89C4.pcm
+924,7,,372,卦,U+5366,guà,ok,book7 字族拓展 via family parent=卜,voice/b7_372_5366.pcm
+925,7,,373,坷,U+5777,kě,ok,book7 字族拓展 via family parent=土,voice/b7_373_5777.pcm
+926,7,,374,坯,U+576F,pī,ok,book7 字族拓展 via family parent=土,voice/b7_374_576F.pcm
+927,7,,375,拓,U+62D3,tuò,ok,book7 字族拓展 via family parent=石,voice/b7_375_62D3.pcm
+928,7,,376,坪,U+576A,píng,ok,book7 字族拓展 via family parent=土,voice/b7_376_576A.pcm
+929,7,,377,坦,U+5766,tǎn,ok,book7 字族拓展 via family parent=土,voice/b7_377_5766.pcm
+930,7,,378,坤,U+5764,kūn,ok,book7 字族拓展 via family parent=土,voice/b7_378_5764.pcm
+931,7,,379,者,U+8005,zhě,ok,book7 字族拓展 via family parent=日,voice/b7_379_8005.pcm
+932,7,,380,拍,U+62CD,pāi,ok,book7 字族拓展 via family parent=白,voice/b7_380_62CD.pcm
+933,7,,381,拥,U+62E5,yōng,ok,book7 字族拓展 via family parent=用,voice/b7_381_62E5.pcm
+934,7,,382,势,U+52BF,shì,ok,book7 字族拓展 via family parent=力,voice/b7_382_52BF.pcm
+935,7,,383,垃,U+5783,lā,ok,book7 字族拓展 via family parent=土,voice/b7_383_5783.pcm
+936,7,,384,幸,U+5E78,xìng,ok,book7 字族拓展 via family parent=土,voice/b7_384_5E78.pcm
+937,7,,385,拙,U+62D9,zhuō,ok,book7 字族拓展 via family parent=出,voice/b7_385_62D9.pcm
+938,7,,386,坡,U+5761,pō,ok,book7 字族拓展 via family parent=土,voice/b7_386_5761.pcm
+939,7,,387,拗,U+62D7,ǎo,ok,book7 字族拓展 via family parent=幼,voice/b7_387_62D7.pcm
+940,7,,388,取,U+53D6,qǔ,ok,book7 字族拓展 via family parent=又,voice/b7_388_53D6.pcm
+941,7,,389,昔,U+6614,xī,ok,book7 字族拓展 via family parent=日,voice/b7_389_6614.pcm
+942,7,,390,苛,U+82DB,kē,ok,book7 字族拓展 via family parent=可,voice/b7_390_82DB.pcm
+943,7,,391,若,U+82E5,ruò,ok,book7 字族拓展 via family parent=右,voice/b7_391_82E5.pcm
+944,7,,392,苞,U+82DE,bāo,ok,book7 字族拓展 via family parent=包,voice/b7_392_82DE.pcm
+945,7,,393,茁,U+8301,zhuó,ok,book7 字族拓展 via family parent=出,voice/b7_393_8301.pcm
+946,7,,394,茄,U+8304,jiā,ok,book7 字族拓展 via family parent=加,voice/b7_394_8304.pcm
+947,7,,395,枉,U+6789,wǎng,ok,book7 字族拓展 via family parent=木,voice/b7_395_6789.pcm
+948,7,,396,杯,U+676F,bēi,ok,book7 字族拓展 via family parent=木,voice/b7_396_676F.pcm
+949,7,,397,枢,U+67A2,shū,ok,book7 字族拓展 via family parent=木,voice/b7_397_67A2.pcm
+950,7,,398,柜,U+67DC,guì,ok,book7 字族拓展 via family parent=木,voice/b7_398_67DC.pcm
+951,7,,399,枚,U+679A,méi,ok,book7 字族拓展 via family parent=木,voice/b7_399_679A.pcm
+952,7,,400,析,U+6790,xī,ok,book7 字族拓展 via family parent=木,voice/b7_400_6790.pcm
+953,7,,401,板,U+677F,bǎn,ok,book7 字族拓展 via family parent=木,voice/b7_401_677F.pcm
+954,7,,402,枪,U+67AA,qiāng,ok,book7 字族拓展 via family parent=木,voice/b7_402_67AA.pcm
+955,7,,403,枫,U+67AB,fēng,ok,book7 字族拓展 via family parent=木,voice/b7_403_67AB.pcm
+956,7,,404,构,U+6784,gòu,ok,book7 字族拓展 via family parent=木,voice/b7_404_6784.pcm
+957,7,,405,杭,U+676D,háng,ok,book7 字族拓展 via family parent=木,voice/b7_405_676D.pcm
+958,7,,406,杰,U+6770,jié,ok,book7 字族拓展 via family parent=木,voice/b7_406_6770.pcm
+959,7,,407,枕,U+6795,zhěn,ok,book7 字族拓展 via family parent=木,voice/b7_407_6795.pcm
+960,7,,408,丧,U+4E27,sàng,ok,book7 字族拓展 via family parent=土,voice/b7_408_4E27.pcm
